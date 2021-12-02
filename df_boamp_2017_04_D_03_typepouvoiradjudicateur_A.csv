@@ -1,0 +1,2729 @@
+BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Typepouvoiradjudicateur_Agencenational,D_03_03_Typepouvoiradjudicateur_Autotriteregional,D_03_04_Typepouvoiradjudicateur_Agenceregional,D_03_05_Typepouvoiradjudicateur_Orgdroitpublic,D_03_06_Typepouvoiradjudicateur_Institutioneuropeenne,D_03_07_Typepouvoiradjudicateur_Autre
+16-107854,True,False,False,False,False,False,
+16-117120,False,False,False,False,True,False,
+16-117442,False,False,False,False,False,False,Groupement de commandes
+16-117488,False,False,False,False,False,False,Groupement de commandes
+16-126428,False,False,False,False,False,False,Commune
+16-139151,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+16-145313,False,False,True,False,False,False,
+16-146549,True,False,False,False,False,False,
+16-149742,False,False,True,False,False,False,
+16-151876,False,False,False,False,True,False,
+16-152078,False,False,True,False,False,False,
+16-152802,False,False,False,False,False,False,établissement public de santé
+16-157655,False,False,False,False,True,False,
+16-157867,False,False,True,False,False,False,
+16-172697,False,False,True,False,False,False,
+16-173511,False,False,False,False,True,False,
+16-173931,False,False,False,False,True,False,
+16-175162,False,False,True,False,False,False,
+16-175399,False,False,True,False,False,False,
+16-176018,True,False,False,False,False,False,
+16-176924,False,False,True,False,False,False,
+16-177268,False,False,True,False,False,False,
+16-178991,True,False,False,False,False,False,
+16-179117,False,False,True,False,False,False,
+16-179216,False,False,True,False,False,False,
+16-185882,False,False,False,False,False,False,Collectivité Territoriale
+16-186049,False,False,False,False,False,False,Collectivité Territoriale
+16-94408,False,False,True,False,False,False,
+17-10505,False,False,False,False,False,False,Société d'économie mixte
+17-10693,False,False,True,False,False,False,
+17-11170,False,False,True,False,False,False,
+17-11505,False,False,True,False,False,False,
+17-12038,False,False,True,False,False,False,
+17-12352,False,False,False,False,False,False,Syndicat Départemental de Traitement de Déchets Ménagers de l'Aisne
+17-12789,True,False,False,False,False,False,
+17-13893,False,False,True,False,False,False,
+17-1403,False,False,False,False,False,False,Collectivité territoriale
+17-14903,False,False,False,False,False,False,Collectivité territoriale
+17-15655,False,False,False,False,False,False,Collectivité territoriale
+17-16218,False,False,True,False,False,False,
+17-17119,False,False,True,False,False,False,
+17-1730,True,False,False,False,False,False,
+17-18005,True,False,False,False,False,False,
+17-19615,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-20998,False,False,True,False,False,False,
+17-21590,False,False,False,False,True,False,
+17-67445,False,False,True,False,False,False,
+17-22146,False,False,False,False,False,False,HOPITAL
+17-22227,True,False,False,False,False,False,
+17-22442,False,False,True,False,False,False,
+17-22662,False,False,True,False,False,False,
+17-63942,True,False,False,False,False,False,
+17-23130,False,False,True,False,False,False,
+17-23132,False,False,False,False,False,False,Syndicat mixte ouvert
+17-23176,False,False,True,False,False,False,
+17-23249,True,False,False,False,False,False,
+17-23499,False,False,True,False,False,False,
+17-24347,False,False,False,False,False,False,Groupement d'achat
+17-24581,False,False,True,False,False,False,
+17-24688,False,False,True,False,False,False,
+17-24978,False,False,True,False,False,False,
+17-24986,False,False,True,False,False,False,
+17-25144,False,False,True,False,False,False,
+17-25310,False,False,True,False,False,False,
+17-25613,False,False,True,False,False,False,
+17-25654,False,False,False,False,False,False,sci
+17-25777,False,False,False,False,True,False,
+17-25866,False,False,True,False,False,False,
+17-26293,True,False,False,False,False,False,
+17-26728,False,False,True,False,False,False,
+17-26762,True,False,False,False,False,False,
+17-27279,False,False,True,False,False,False,
+17-27601,False,False,False,False,True,False,
+17-27690,False,False,True,False,False,False,
+17-27849,False,False,True,False,False,False,
+17-28053,False,False,False,False,True,False,
+17-28120,False,False,False,False,False,False,Société Privée SAS
+17-28237,False,False,False,False,False,False,SEM agissant au nom et pour le compte de la Commune de Saint-André
+17-28327,False,False,False,False,False,False,Collectivité territoriale
+17-28606,False,False,True,False,False,False,
+17-28668,False,False,False,False,True,False,
+17-2900,False,False,True,False,False,False,
+17-29254,False,False,True,False,False,False,
+17-61809,False,False,False,False,False,True,
+17-29776,False,False,True,False,False,False,
+17-29921,False,False,True,False,False,False,
+17-30088,False,False,True,False,False,False,
+17-30443,False,False,True,False,False,False,
+17-30543,False,False,True,False,False,False,
+17-64227,False,False,True,False,False,False,
+17-31362,False,False,False,False,True,False,
+17-31834,False,False,False,False,True,False,
+17-32352,False,False,True,False,False,False,
+17-32429,False,False,False,False,False,False,Organisme de droit public
+17-32554,True,False,False,False,False,False,
+17-3216,False,False,True,False,False,False,
+17-33102,True,False,False,False,False,False,
+17-33247,False,False,False,False,False,False,etablissement public de sante
+17-33423,True,False,False,False,False,False,
+17-33546,False,False,True,False,False,False,
+17-33597,False,False,True,False,False,False,
+17-34032,False,False,True,False,False,False,
+17-34090,False,False,True,False,False,False,
+17-34167,False,False,False,False,True,False,
+17-34393,False,False,False,True,False,False,
+17-34585,False,False,True,False,False,False,
+17-34592,False,False,True,False,False,False,
+17-34685,False,False,False,False,False,False,SEM
+17-34739,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-85843,False,False,False,False,True,False,
+17-34761,False,False,True,False,False,False,
+17-34799,False,False,True,False,False,False,
+17-34851,False,False,True,False,False,False,
+17-34859,True,False,False,False,False,False,
+17-34961,False,False,False,False,False,False,EPS
+17-35169,False,False,False,False,False,False,commune
+17-35300,False,False,True,False,False,False,
+17-35448,True,False,False,False,False,False,
+17-29171,False,False,True,False,False,False,
+17-35522,False,False,True,False,False,False,
+17-35628,False,False,False,False,False,False,autre acheteur
+17-35659,False,False,False,False,False,False,université
+17-35710,False,False,False,False,True,False,
+17-85453,False,False,False,False,True,False,
+17-35974,False,False,False,False,True,False,
+17-36054,False,False,False,False,False,False,Ecole de Management de Normandie
+17-65790,False,False,True,False,False,False,
+17-36198,False,False,False,False,False,False,collectivité territoriale
+17-36250,False,False,True,False,False,False,
+17-36272,False,False,False,False,True,False,
+17-36300,False,False,True,False,False,False,
+17-36457,False,False,False,False,True,False,
+17-36538,False,False,True,False,False,False,
+17-77864,False,False,False,False,False,False,Groupement de collectivités
+17-36587,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+17-36678,True,False,False,False,False,False,
+17-36940,False,False,True,False,False,False,
+17-36989,False,False,True,False,False,False,
+17-37029,False,False,True,False,False,False,
+17-37050,False,False,False,False,False,False,Etablissement public de santé
+17-37051,False,False,True,False,False,False,
+17-37056,False,False,False,False,True,False,
+17-37063,True,False,False,False,False,False,
+17-37081,False,False,False,False,False,False,Office public de l'habitat
+17-37348,False,False,True,False,False,False,
+17-37388,False,False,True,False,False,False,
+17-37399,False,False,False,False,False,False,collectivité territoriale
+17-37414,False,False,False,False,False,False,Collectivité territoriale
+17-37542,True,False,False,False,False,False,
+17-37706,True,False,False,False,False,False,
+17-67568,False,False,False,False,True,False,
+17-37844,False,False,False,False,False,False,collectivité territoriale
+17-37959,False,False,False,False,False,False,collectivité territoriale
+17-37962,False,False,False,False,False,False,Office Public de l'Habitat
+17-37993,False,False,False,False,False,False,autre
+17-38062,True,False,False,False,False,False,
+17-38116,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-38126,False,False,True,False,False,False,
+17-38196,True,False,False,False,False,False,
+17-38229,False,False,False,False,False,False,Communauté de Communes
+17-38239,False,False,False,False,False,False,Etablissement Public de coopération Intercommunale
+17-38270,False,False,False,False,True,False,
+17-38348,False,False,False,False,True,False,
+17-38448,True,False,False,False,False,False,
+17-38461,True,False,False,False,False,False,
+17-38533,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+17-38594,False,False,True,False,False,False,
+17-38643,False,False,False,False,True,False,
+17-38653,False,False,True,False,False,False,
+17-38869,False,False,False,False,True,False,
+17-38888,False,False,False,False,True,False,
+17-38958,False,False,True,False,False,False,
+17-39034,False,False,False,False,True,False,
+17-39037,False,False,True,False,False,False,
+17-39121,False,False,False,False,True,False,
+17-39146,True,False,False,False,False,False,
+17-39191,False,False,True,False,False,False,
+17-39311,False,False,True,False,False,False,
+17-39354,False,False,True,False,False,False,
+17-39484,False,False,True,False,False,False,
+17-39556,False,False,True,False,False,False,
+17-39644,False,False,True,False,False,False,
+17-39657,False,False,True,False,False,False,
+17-39659,False,False,False,False,False,False,Organisme de sécurité sociale de droit privé
+17-39707,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-39730,False,False,True,False,False,False,
+17-39734,False,False,True,False,False,False,
+17-39808,False,False,True,False,False,False,
+17-39829,False,False,True,False,False,False,
+17-39861,False,False,True,False,False,False,
+17-39975,False,False,True,False,False,False,
+17-40081,False,False,False,False,True,False,
+17-40115,False,False,True,False,False,False,
+17-40168,True,False,False,False,False,False,
+17-40346,True,False,False,False,False,False,
+17-40350,False,False,False,False,False,False,Collectivité territoriale
+17-40353,True,False,False,False,False,False,
+17-40364,False,False,True,False,False,False,
+17-40413,False,False,True,False,False,False,
+17-40448,False,False,True,False,False,False,
+17-40458,False,False,True,False,False,False,
+17-40504,False,False,False,False,True,False,
+17-40525,False,False,True,False,False,False,
+17-40754,False,False,True,False,False,False,
+17-40771,False,False,False,False,True,False,
+17-40812,False,False,True,False,False,False,
+17-40826,False,False,True,False,False,False,
+17-40868,False,False,False,False,False,False,Etablissement public de santé
+17-40889,False,False,True,False,False,False,
+17-40998,False,False,True,False,False,False,
+17-41006,False,False,True,False,False,False,
+17-41011,False,False,True,False,False,False,
+17-41039,False,False,True,False,False,False,
+17-41137,False,False,True,False,False,False,
+17-41181,False,False,True,False,False,False,
+17-41208,False,False,False,False,False,False,Département de l'Isère
+17-41225,False,False,False,False,True,False,
+17-41235,False,False,False,False,False,False,Etablissement de santé
+17-41302,False,False,False,False,False,False,O.P.H.
+17-41363,False,False,True,False,False,False,
+17-41387,False,False,True,False,False,False,
+17-41476,False,False,True,False,False,False,
+17-41623,False,False,True,False,False,False,
+17-41764,True,False,False,False,False,False,
+17-41797,False,False,True,False,False,False,
+17-41824,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-41833,False,False,False,False,True,False,
+17-41834,False,False,True,False,False,False,
+17-41840,False,False,False,False,False,False,SA d'HLM
+17-41855,False,False,True,False,False,False,
+17-41969,False,False,False,False,True,False,
+17-42063,False,False,True,False,False,False,
+17-42077,False,False,True,False,False,False,
+17-42187,False,False,True,False,False,False,
+17-42219,False,False,False,False,False,False,collectivité territoriale
+17-63817,False,False,False,False,True,False,
+17-42303,False,False,False,False,True,False,
+17-42305,False,False,False,False,False,False,office public de l'habitat
+17-42319,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-42329,False,False,False,False,True,False,
+17-42392,False,False,True,False,False,False,
+17-67071,True,False,False,False,False,False,
+17-42485,True,False,False,False,False,False,
+17-42512,False,False,True,False,False,False,
+17-42519,False,False,True,False,False,False,
+17-42586,False,False,False,False,True,False,
+17-42597,False,False,True,False,False,False,
+17-42616,False,False,True,False,False,False,
+17-42670,False,False,True,False,False,False,
+17-42694,False,False,False,False,True,False,
+17-42702,False,False,False,False,True,False,
+17-42706,False,False,True,False,False,False,
+17-42712,False,False,True,False,False,False,
+17-42729,False,False,False,False,False,False,Collectivité territoriale
+17-42738,False,False,True,False,False,False,
+17-42741,False,False,False,False,False,False,Societé d'Economie Mixte
+17-42746,False,False,True,False,False,False,
+17-42756,False,False,True,False,False,False,
+17-42798,False,False,False,False,True,False,
+17-42816,False,False,False,False,False,False,etablissement public de santé
+17-42819,False,False,True,False,False,False,
+17-42825,False,False,True,False,False,False,
+17-42844,False,False,False,False,True,False,
+17-42881,False,False,False,False,True,False,
+17-42894,False,False,True,False,False,False,
+17-42896,False,False,False,False,True,False,
+17-42902,True,False,False,False,False,False,
+17-42913,False,False,False,False,True,False,
+17-42915,False,False,True,False,False,False,
+17-42927,False,False,False,False,False,False,SPL
+17-42966,False,False,True,False,False,False,
+17-42973,False,False,True,False,False,False,
+17-42974,True,False,False,False,False,False,
+17-42983,False,False,True,False,False,False,
+17-42985,False,False,True,False,False,False,
+17-43017,True,False,False,False,False,False,
+17-43023,False,False,True,False,False,False,
+17-43086,False,False,True,False,False,False,
+17-43095,False,False,False,False,False,False,Etablissement de coopération intercommunale
+17-43111,False,False,True,False,False,False,
+17-43153,False,False,False,False,True,False,
+17-43227,False,False,True,False,False,False,
+17-43238,False,False,False,False,True,False,
+17-43239,False,False,True,False,False,False,
+17-83179,False,False,False,False,True,False,
+17-43256,False,False,False,False,False,False,Société titulaire d'une concession d'aménagement
+17-43258,False,False,True,False,False,False,
+17-43268,False,False,False,False,False,False,Collectivité territoriale
+17-43270,False,False,False,False,True,False,
+17-43287,False,False,True,False,False,False,
+17-43325,False,False,False,False,True,False,
+17-43329,False,False,False,False,False,False,Etablissement public de santé
+17-43359,False,False,False,False,False,False,Métropole
+17-43386,False,False,True,False,False,False,
+17-43395,False,False,True,False,False,False,
+17-43416,False,False,True,False,False,False,
+17-43464,False,False,True,False,False,False,
+17-43470,True,False,False,False,False,False,
+17-43472,False,False,False,False,False,False,Université
+17-43474,False,False,False,False,False,False,Entreprise sociale pour l'habitat
+17-43478,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-43496,False,False,False,False,False,False,Entité adjudicatrice
+17-43525,False,False,False,False,True,False,
+17-43536,False,False,True,False,False,False,
+17-43543,False,False,True,False,False,False,
+17-43546,False,False,True,False,False,False,
+17-43548,False,False,True,False,False,False,
+17-43563,False,False,False,False,True,False,
+17-43564,False,False,False,False,False,False,Office Public de l'Habitat
+17-43579,False,False,False,False,True,False,
+17-60669,False,False,False,False,True,False,
+17-43616,True,False,False,False,False,False,
+17-43626,False,False,True,False,False,False,
+17-43650,False,False,False,False,False,False,EPS
+17-43664,False,False,True,False,False,False,
+17-43672,False,False,True,False,False,False,
+17-43686,False,False,True,False,False,False,
+17-43710,False,False,False,False,False,False,Etablissement public de santé
+17-43736,False,False,True,False,False,False,
+17-43787,False,False,False,False,False,False,Collectivité Locale
+17-43790,True,False,False,False,False,False,
+17-43829,False,False,False,False,False,False,Etablissement Public Territorial
+17-43847,True,False,False,False,False,False,
+17-43854,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-43858,False,False,True,False,False,False,
+17-43871,False,False,False,False,False,False,Etablissement public de santé
+17-43873,False,False,False,True,False,False,
+17-43879,False,False,True,False,False,False,
+17-43900,False,False,False,False,True,False,
+17-43912,False,False,False,False,False,False,commune
+17-43929,False,False,True,False,False,False,
+17-43953,False,False,True,False,False,False,
+17-43960,False,False,False,False,False,False,Etablissement public autonome
+17-43967,False,False,True,False,False,False,
+17-43969,True,False,False,False,False,False,
+17-43972,False,False,False,False,True,False,
+17-43977,True,False,False,False,False,False,
+17-43979,False,False,True,False,False,False,
+17-43981,False,False,False,False,True,False,
+17-43984,False,False,False,False,True,False,
+17-43985,False,False,False,False,True,False,
+17-43986,False,False,False,False,True,False,
+17-43987,True,False,False,False,False,False,
+17-43992,True,False,False,False,False,False,
+17-44000,False,False,False,False,False,False,Société Anonyme d'Economie Mixte
+17-44003,False,False,False,False,True,False,
+17-44004,True,False,False,False,False,False,
+17-44010,False,False,False,False,False,False,Etablissement Public de Santé
+17-44015,False,False,False,False,True,False,
+17-44018,False,False,False,False,False,False,Service d'incendie et de secours
+17-44020,False,False,True,False,False,False,
+17-44023,False,False,True,False,False,False,
+17-44027,True,False,False,False,False,False,
+17-44028,False,False,True,False,False,False,
+17-44033,True,False,False,False,False,False,
+17-44036,True,False,False,False,False,False,
+17-44040,False,False,True,False,False,False,
+17-44041,True,False,False,False,False,False,
+17-44046,True,False,False,False,False,False,
+17-85112,False,False,True,False,False,False,
+17-44053,False,False,False,False,True,False,
+17-44054,True,False,False,False,False,False,
+17-44061,False,False,False,False,True,False,
+17-44064,True,False,False,False,False,False,
+17-44066,False,False,True,False,False,False,
+17-44077,False,False,False,False,True,False,
+17-44081,False,False,False,False,False,False,Etablissement Public Social et Médico-Social
+17-44082,False,False,True,False,False,False,
+17-87705,False,False,True,False,False,False,
+17-44086,False,False,False,True,False,False,
+17-44089,False,False,True,False,False,False,
+17-80848,True,False,False,False,False,False,
+17-44096,False,False,True,False,False,False,
+17-44097,False,False,False,False,False,False,Santé
+17-44098,False,False,True,False,False,False,
+17-44099,False,False,False,True,False,False,
+17-44107,False,False,False,False,False,False,GIE
+17-44118,False,False,True,False,False,False,
+17-44120,True,False,False,False,False,False,
+17-44121,False,False,False,False,False,False,Délégation de service public
+17-44122,False,False,False,False,True,False,
+17-44123,False,False,False,False,False,False,Société d'Economie Mixte
+17-44124,False,False,True,False,False,False,
+17-44125,False,False,True,False,False,False,
+17-44126,False,False,False,False,False,False,ch
+17-44127,False,False,True,False,False,False,
+17-44130,False,False,False,False,True,False,
+17-44131,True,False,False,False,False,False,
+17-44137,False,False,True,False,False,False,
+17-44142,False,False,True,False,False,False,
+17-44147,False,False,False,False,False,False,Etablissement public de santé
+17-44148,True,False,False,False,False,False,
+17-85016,False,False,True,False,False,False,
+17-44151,False,False,False,True,False,False,
+17-44154,False,False,True,False,False,False,
+17-44156,False,False,False,False,False,False,SA d'HLM
+17-44158,False,False,False,False,True,False,
+17-44167,False,False,True,False,False,False,
+17-44174,False,False,True,False,False,False,
+17-44175,False,False,True,False,False,False,
+17-44176,False,False,True,False,False,False,
+17-44177,False,False,False,False,True,False,
+17-44184,False,False,True,False,False,False,
+17-44185,False,False,True,False,False,False,
+17-44186,False,False,True,False,False,False,
+17-44188,False,False,True,False,False,False,
+17-44189,False,False,True,False,False,False,
+17-44192,False,False,True,False,False,False,
+17-44194,False,False,False,False,True,False,
+17-44196,False,False,False,False,True,False,
+17-44200,True,False,False,False,False,False,
+17-44203,False,False,True,False,False,False,
+17-44204,False,False,True,False,False,False,
+17-44206,False,False,False,False,False,False,Office public de l'habitat
+17-44208,False,False,False,False,True,False,
+17-44220,False,False,False,False,False,False,SA D'HLM
+17-44222,False,False,True,False,False,False,
+17-44223,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+17-44227,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+17-44228,False,False,False,False,False,False,Groupement de commandes
+17-44232,False,False,True,False,False,False,
+17-44235,False,False,True,False,False,False,
+17-44240,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+17-86732,False,False,False,False,True,False,
+17-44247,False,False,False,False,True,False,
+17-61355,False,False,True,False,False,False,
+17-44250,False,False,True,False,False,False,
+17-44252,True,False,False,False,False,False,
+17-44253,False,False,True,False,False,False,
+17-44255,False,False,False,False,True,False,
+17-44256,True,False,False,False,False,False,
+17-44264,False,False,False,False,True,False,
+17-44266,False,False,True,False,False,False,
+17-44268,False,False,True,False,False,False,
+17-44270,False,False,False,False,True,False,
+17-44274,False,False,True,False,False,False,
+17-44276,True,False,False,False,False,False,
+17-44280,True,False,False,False,False,False,
+17-44283,True,False,False,False,False,False,
+17-44289,True,False,False,False,False,False,
+17-44291,True,False,False,False,False,False,
+17-44293,False,False,False,False,False,False,Organisme de sécurité sociale
+17-44297,False,False,True,False,False,False,
+17-44301,True,False,False,False,False,False,
+17-44310,False,False,True,False,False,False,
+17-82416,False,False,False,False,False,False,établissement de santé
+17-44316,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-44326,False,False,False,False,False,False,santé
+17-44328,False,False,False,False,True,False,
+17-44329,False,False,False,False,False,False,SPL
+17-44330,False,False,False,False,True,False,
+17-44331,False,False,False,False,False,False,Service d'incendie et de secours
+17-44333,False,False,True,False,False,False,
+17-44334,False,False,True,False,False,False,
+17-44339,False,False,False,False,True,False,
+17-44341,False,False,False,False,False,False,Société Publique Locale (SPL)
+17-44342,False,False,False,False,False,False,Etablissement public de santé
+17-44345,False,False,True,False,False,False,
+17-44349,True,False,False,False,False,False,
+17-44351,False,False,False,False,True,False,
+17-44357,False,False,True,False,False,False,
+17-44362,False,False,False,False,True,False,
+17-44363,False,False,True,False,False,False,
+17-44367,False,False,True,False,False,False,
+17-44377,False,False,False,True,False,False,
+17-44379,False,False,True,False,False,False,
+17-44381,False,False,False,False,False,False,Organisme consulaire
+17-44382,True,False,False,False,False,False,
+17-44386,False,False,True,False,False,False,
+17-66299,False,False,False,False,False,False,Recherche
+17-44402,False,False,True,False,False,False,
+17-44409,False,False,False,True,False,False,
+17-44413,False,False,False,False,True,False,
+17-44414,False,False,True,False,False,False,
+17-44415,False,False,False,False,False,False,Etablissement public hospitalier
+17-44419,False,False,False,False,False,False,Logement social
+17-44424,False,False,True,False,False,False,
+17-44428,False,False,True,False,False,False,
+17-44429,False,False,False,False,False,False,Établissement public de santé
+17-44431,False,False,False,False,False,False,Société Publique Locale
+17-44438,False,False,True,False,False,False,
+17-44439,False,False,True,False,False,False,
+17-44440,False,False,False,False,True,False,
+17-44446,False,False,True,False,False,False,
+17-44447,False,False,True,False,False,False,
+17-44452,False,False,False,False,True,False,
+17-44454,False,False,False,False,False,False,autre
+17-44455,True,False,False,False,False,False,
+17-44456,False,False,True,False,False,False,
+17-44463,True,False,False,False,False,False,
+17-44475,False,False,False,False,True,False,
+17-44477,False,False,False,False,False,False,Etablissement public de santé
+17-44479,True,False,False,False,False,False,
+17-71132,False,False,True,False,False,False,
+17-44484,False,False,True,False,False,False,
+17-44495,True,False,False,False,False,False,
+17-44496,False,False,True,False,False,False,
+17-44502,False,False,False,False,False,False,centre hospitalier
+17-44504,False,False,True,False,False,False,
+17-44505,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+17-44509,False,False,False,True,False,False,
+17-44510,False,False,True,False,False,False,
+17-44512,False,False,False,False,True,False,
+17-44513,False,False,True,False,False,False,
+17-44515,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE
+17-44522,True,False,False,False,False,False,
+17-44525,False,False,True,False,False,False,
+17-4453,False,False,False,False,True,False,
+17-44530,True,False,False,False,False,False,
+17-44531,False,False,False,False,True,False,
+17-44534,False,False,True,False,False,False,
+17-44539,False,False,True,False,False,False,
+17-44542,False,False,False,False,True,False,
+17-44546,False,False,False,False,True,False,
+17-84522,False,False,True,False,False,False,
+17-44548,False,False,True,False,False,False,
+17-44550,False,False,True,False,False,False,
+17-61190,False,False,True,False,False,False,
+17-44555,True,False,False,False,False,False,
+17-44559,False,False,True,False,False,False,
+17-44562,False,False,True,False,False,False,
+17-44565,False,False,False,False,True,False,
+17-44567,False,False,False,False,False,False,Collectivité territoriale
+17-44580,False,False,False,False,True,False,
+17-44581,False,False,False,False,False,False,Protection sociale
+17-44582,False,False,True,False,False,False,
+17-44584,False,False,False,False,False,False,Etablissement public de santé
+17-44586,False,False,False,False,False,False,Groupement d'intérêt public
+17-44589,False,False,True,False,False,False,
+17-58686,False,False,False,False,True,False,
+17-44598,False,False,False,False,True,False,
+17-44599,False,False,True,False,False,False,
+17-44600,False,False,False,False,False,False,Association
+17-44604,False,False,False,False,True,False,
+17-44607,False,False,True,False,False,False,
+17-44612,False,False,False,False,True,False,
+17-44615,False,False,True,False,False,False,
+17-61041,False,False,True,False,False,False,
+17-44644,False,False,True,False,False,False,
+17-44646,False,False,True,False,False,False,
+17-44647,False,False,True,False,False,False,
+17-44649,True,False,False,False,False,False,
+17-44653,False,False,False,False,False,False,Société d'économie mixte
+17-44656,False,False,False,False,False,False,ETABLISSEMENT PUBLIC AUTONOME
+17-44657,False,False,False,False,True,False,
+17-44658,False,False,False,False,False,False,Etablissement d'Enseignement Supérieur et Recherche
+17-44659,False,False,True,False,False,False,
+17-44667,False,False,True,False,False,False,
+17-44669,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-44670,False,False,True,False,False,False,
+17-44676,False,False,True,False,False,False,
+17-44677,False,False,False,False,False,False,Mairie de Wallers Arenberg
+17-44690,False,False,False,False,False,False,Société publique locale
+17-61068,False,False,False,False,True,False,
+17-447,False,False,True,False,False,False,
+17-44701,False,False,True,False,False,False,
+17-44708,False,False,True,False,False,False,
+17-44709,True,False,False,False,False,False,
+17-44721,False,False,True,False,False,False,
+17-44725,False,False,True,False,False,False,
+17-44726,False,False,False,False,True,False,
+17-44728,True,False,False,False,False,False,
+17-44730,False,False,False,False,True,False,
+17-44731,False,False,False,False,False,False,autre
+17-44736,False,False,True,False,False,False,
+17-44743,False,False,False,False,True,False,
+17-44745,False,False,True,False,False,False,
+17-44751,False,False,False,False,True,False,
+17-44752,False,False,True,False,False,False,
+17-44754,False,False,True,False,False,False,
+17-83384,False,False,True,False,False,False,
+17-44777,False,False,True,False,False,False,
+17-44781,False,False,False,False,True,False,
+17-44783,False,False,False,False,True,False,
+17-44784,False,False,True,False,False,False,
+17-44785,False,False,False,False,True,False,
+17-44787,False,False,False,False,False,False,Comité des Oeuvres Sociales Provence Alpes Cote d'Azur
+17-44789,False,False,False,False,False,False,EPCI
+17-44791,False,False,False,False,False,False,Université
+17-44796,False,False,False,False,True,False,
+17-44797,True,False,False,False,False,False,
+17-44798,False,False,True,False,False,False,
+17-44799,False,False,False,False,True,False,
+17-44800,False,False,True,False,False,False,
+17-44803,False,False,False,False,False,False,EPCI
+17-44807,False,False,True,False,False,False,
+17-44809,False,False,True,False,False,False,
+17-44814,False,False,True,False,False,False,
+17-44818,False,False,True,False,False,False,
+17-44823,False,False,False,False,True,False,
+17-44824,False,False,True,False,False,False,
+17-44833,False,False,True,False,False,False,
+17-44834,True,False,False,False,False,False,
+17-44839,True,False,False,False,False,False,
+17-44844,False,False,False,False,True,False,
+17-44847,False,False,False,False,False,False,EPIC
+17-44848,False,False,True,False,False,False,
+17-44853,False,False,False,False,False,False,collectivité
+17-44855,False,False,False,False,False,False,Comité des Oeuvres Sociales PACA
+17-44859,False,False,False,False,False,False,Organisme de droit privé de la MSA
+17-44863,False,False,True,False,False,False,
+17-44873,True,False,False,False,False,False,
+17-44875,False,False,False,False,False,False,Etablissement public de santé
+17-44877,False,False,False,False,True,False,
+17-44878,False,False,True,False,False,False,
+17-44889,False,False,True,False,False,False,
+17-61839,False,False,False,False,False,False,Collectivité territoriale
+17-62256,True,False,False,False,False,False,
+17-44899,False,False,False,False,True,False,
+17-44906,False,False,False,False,True,False,
+17-44908,False,False,True,False,False,False,
+17-44918,False,False,False,False,True,False,
+17-44919,False,False,True,False,False,False,
+17-44923,False,False,False,False,True,False,
+17-44937,False,False,False,True,False,False,
+17-44938,False,False,False,False,False,False,AP-HM
+17-44941,False,False,False,False,True,False,
+17-44943,False,False,True,False,False,False,
+17-44947,False,False,True,False,False,False,
+17-44948,False,False,False,True,False,False,
+17-44950,False,False,False,False,False,False,collectivité territoriale
+17-44954,False,False,True,False,False,False,
+17-44956,True,False,False,False,False,False,
+17-44960,False,False,True,False,False,False,
+17-44962,False,False,False,False,False,False,Office public de l'habitat
+17-44965,False,False,False,False,False,False,
+17-44966,True,False,False,False,False,False,
+17-64390,False,False,True,False,False,False,
+17-44971,False,False,False,False,True,False,
+17-44975,False,False,False,False,False,False,Etablissement Public de Santé
+17-44976,False,False,True,False,False,False,
+17-44977,False,False,True,False,False,False,
+17-44979,False,False,True,False,False,False,
+17-44980,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-44982,False,False,False,True,False,False,
+17-44987,True,False,False,False,False,False,
+17-44990,False,False,True,False,False,False,
+17-45000,True,False,False,False,False,False,
+17-45001,False,False,False,False,False,False,Etablissement public local d'enseignement
+17-45014,False,False,False,False,True,False,
+17-45015,False,False,True,False,False,False,
+17-45019,False,False,False,False,False,False,Circonscription administrative du ministère de l'Éducation nationale et du ministère de l'Enseignement supérieur et de la Recherche
+17-45025,False,False,False,False,False,False,autre
+17-84868,False,False,False,False,True,False,
+17-45028,False,False,False,False,False,False,Protection sociale
+17-45032,False,False,True,False,False,False,
+17-45033,False,False,False,False,False,False,EPS
+17-45038,False,False,True,False,False,False,
+17-45040,False,False,False,False,True,False,
+17-45043,False,False,False,False,True,False,
+17-45044,False,False,True,False,False,False,
+17-45050,True,False,False,False,False,False,
+17-45051,False,False,False,False,True,False,
+17-45052,False,False,False,False,False,False,EPCI
+17-45055,False,False,True,False,False,False,
+17-86101,False,False,True,False,False,False,
+17-45058,False,False,False,False,False,False,collectivité territoriale
+17-45059,False,False,False,False,False,False,Caisse d'Allocations Familiales
+17-45062,False,False,False,False,True,False,
+17-45065,False,False,False,False,True,False,
+17-45070,False,False,False,False,False,False,Autorité publique indépendante
+17-45073,False,False,True,False,False,False,
+17-45074,False,False,False,False,False,False,Comité des Oeuvres Sociales PACA
+17-45076,True,False,False,False,False,False,
+17-45077,False,False,False,False,True,False,
+17-45078,False,False,False,False,True,False,
+17-45079,False,False,True,False,False,False,
+17-45090,False,False,False,True,False,False,
+17-45091,False,False,False,False,False,False,EPCI
+17-45097,False,False,True,False,False,False,
+17-45098,True,False,False,False,False,False,
+17-45099,False,False,False,False,True,False,
+17-45104,False,False,True,False,False,False,
+17-45105,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+17-45108,False,False,False,False,False,False,association loi 1901
+17-45113,False,False,True,False,False,False,
+17-45114,False,False,True,False,False,False,
+17-45116,False,False,False,True,False,False,
+17-45117,False,False,True,False,False,False,
+17-45120,False,False,False,False,True,False,
+17-45122,False,False,True,False,False,False,
+17-45124,False,False,True,False,False,False,
+17-45125,False,False,True,False,False,False,
+17-45129,False,False,False,False,True,False,
+17-45132,False,False,False,False,True,False,
+17-45140,False,False,True,False,False,False,
+17-45143,False,False,False,False,False,False,Organisme HLM
+17-45144,False,False,False,False,False,False,Assemblée parlementaire
+17-45145,False,False,False,False,False,False,"Etablissement public à caractère scientifique, culturel et professionnel (EPSCP)"
+17-45151,True,False,False,False,False,False,
+17-45154,False,False,True,False,False,False,
+17-45157,False,False,False,False,False,False,Etablissement public de santé
+17-45158,False,False,False,False,True,False,
+17-45164,True,False,False,False,False,False,
+17-45171,True,False,False,False,False,False,
+17-45175,False,False,True,False,False,False,
+17-45176,False,False,False,False,False,False,EPCI
+17-45182,False,False,False,False,False,False,Etablissement public de santé
+17-45185,True,False,False,False,False,False,
+17-45194,False,False,False,False,False,False,Etablissement public de santé
+17-45196,True,False,False,False,False,False,
+17-45199,False,False,True,False,False,False,
+17-45202,True,False,False,False,False,False,
+17-45208,False,False,True,False,False,False,
+17-45213,False,False,True,False,False,False,
+17-45215,False,False,True,False,False,False,
+17-45216,False,False,True,False,False,False,
+17-84359,False,False,False,False,True,False,
+17-45218,False,False,False,False,True,False,
+17-45221,False,False,False,False,False,False,Etablissement public de santé
+17-45225,False,False,True,False,False,False,
+17-45226,False,False,False,False,True,False,
+17-45230,False,False,True,False,False,False,
+17-45233,False,False,False,True,False,False,
+17-45234,False,False,True,False,False,False,
+17-45236,False,False,True,False,False,False,
+17-45242,False,False,False,True,False,False,
+17-45247,False,False,True,False,False,False,
+17-45249,False,False,True,False,False,False,
+17-45252,True,False,False,False,False,False,
+17-45255,False,False,True,False,False,False,
+17-84374,False,False,False,False,False,False,Groupement d'achats
+17-45263,False,False,False,False,False,False,Etablissement public de santé
+17-45264,False,False,False,False,True,False,
+17-45269,False,False,True,False,False,False,
+17-45272,False,False,False,False,False,False,collectivité territoriale
+17-45278,True,False,False,False,False,False,
+17-45280,False,False,False,False,True,False,
+17-45282,False,False,False,False,True,False,
+17-45284,False,False,False,False,True,False,
+17-45285,False,False,True,False,False,False,
+17-45286,False,False,False,False,True,False,
+17-45298,False,False,True,False,False,False,
+17-45304,False,False,False,False,True,False,
+17-45306,False,False,True,False,False,False,
+17-45307,False,False,False,False,False,False,ESH
+17-45310,False,False,False,False,False,False,Collectivité territoriale
+17-45311,False,False,False,False,False,False,EPS
+17-45319,False,False,True,False,False,False,
+17-45320,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+17-45321,False,False,True,False,False,False,
+17-45322,False,False,False,False,True,False,
+17-45325,False,False,False,False,False,False,Gestionnaire réseaux AEP et assainissement
+17-45326,False,False,True,False,False,False,
+17-45327,False,False,True,False,False,False,
+17-45332,False,False,False,False,False,False,Caisse Primaire d'Assurance Maladie de Meurthe et Moselle
+17-45334,True,False,False,False,False,False,
+17-60839,False,False,True,False,False,False,
+17-45342,False,False,True,False,False,False,
+17-84492,False,False,False,False,True,False,
+17-45349,False,False,False,False,True,False,
+17-45350,False,False,False,False,False,False,Etablissement public local
+17-45351,False,False,True,False,False,False,
+17-45357,False,False,False,False,True,False,
+17-45362,False,False,True,False,False,False,
+17-45363,False,False,True,False,False,False,
+17-45367,False,False,True,False,False,False,
+17-45369,False,False,False,False,False,False,Fondation
+17-45370,False,False,False,False,False,False,Etablissement Public
+17-45371,False,False,False,False,True,False,
+17-45373,False,False,False,False,False,False,syndicat mixte
+17-45375,False,False,True,False,False,False,
+17-45376,False,False,True,False,False,False,
+17-45383,False,False,True,False,False,False,
+17-45386,False,False,False,False,True,False,
+17-45387,False,False,True,False,False,False,
+17-45390,False,False,False,True,False,False,
+17-45394,False,False,False,False,True,False,
+17-45395,False,False,True,False,False,False,
+17-45396,False,False,True,False,False,False,
+17-45398,False,False,True,False,False,False,
+17-45401,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-45405,False,False,False,False,False,False,Société d'exploitation de la Tour Eiffel
+17-45419,False,False,True,False,False,False,
+17-45420,False,False,False,False,True,False,
+17-45422,False,False,True,False,False,False,
+17-45423,False,False,True,False,False,False,
+17-85365,False,False,True,False,False,False,
+17-45427,False,False,True,False,False,False,
+17-45429,False,False,True,False,False,False,
+17-45430,False,False,True,False,False,False,
+17-45432,False,False,True,False,False,False,
+17-45436,False,False,False,False,False,False,Catégorie : Etablissement public national (EPSCT)
+17-45439,True,False,False,False,False,False,
+17-45441,False,False,False,False,True,False,
+17-45442,False,False,True,False,False,False,
+17-45443,False,False,True,False,False,False,
+17-45446,False,False,False,True,False,False,
+17-45448,True,False,False,False,False,False,
+17-45449,False,False,False,False,False,False,Etablissement Public de Santé
+17-45450,False,False,False,False,False,False,autre
+17-45451,False,False,True,False,False,False,
+17-45458,False,False,False,False,True,False,
+17-45465,False,False,False,True,False,False,
+17-45467,False,False,False,False,True,False,
+17-45468,False,False,False,False,True,False,
+17-45472,False,False,False,True,False,False,
+17-45474,False,False,True,False,False,False,
+17-45477,False,False,False,False,True,False,
+17-45478,False,False,False,True,False,False,
+17-45479,True,False,False,False,False,False,
+17-45481,False,False,True,False,False,False,
+17-45482,False,False,True,False,False,False,
+17-45484,False,False,False,False,True,False,
+17-45485,False,False,False,False,False,False,OPH
+17-45486,False,False,False,False,True,False,
+17-45487,False,False,True,False,False,False,
+17-45493,False,False,False,False,False,False,association
+17-45497,False,False,False,False,True,False,
+17-61754,False,False,False,False,False,False,"Etablissement Public à Caractère Scientifique, Culturel et Professionnel (EPCSCP) du ministère de l'enseignement supérieur."
+17-45501,False,False,True,False,False,False,
+17-45511,False,False,True,False,False,False,
+17-45515,True,False,False,False,False,False,
+17-45520,False,False,False,True,False,False,
+17-45522,False,False,False,False,True,False,
+17-45524,False,False,False,False,True,False,
+17-45527,False,False,False,False,False,False,Enseignement supérieur et recherche
+17-45529,False,False,True,False,False,False,
+17-45531,False,False,False,False,True,False,
+17-45537,False,False,False,False,True,False,
+17-45542,False,False,False,False,True,False,
+17-84814,False,False,False,False,False,False,Organisme privé de sécurité sociale
+17-45547,False,False,True,False,False,False,
+17-45554,False,False,True,False,False,False,
+17-45560,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunal
+17-45563,False,False,False,False,True,False,
+17-45571,False,False,False,False,False,False,autre
+17-45573,False,False,False,False,True,False,
+17-45574,False,False,True,False,False,False,
+17-45575,False,False,False,False,True,False,
+17-45577,False,False,False,False,True,False,
+17-45579,False,False,False,False,True,False,
+17-45580,False,False,True,False,False,False,
+17-45581,False,False,True,False,False,False,
+17-45584,False,False,True,False,False,False,
+17-45585,False,False,False,False,True,False,
+17-45595,False,False,True,False,False,False,
+17-45598,False,False,False,False,False,False,Etablissement public territorial
+17-45608,False,False,True,False,False,False,
+17-45614,False,False,False,False,False,False,Établissement public de santé
+17-45620,False,False,True,False,False,False,
+17-45626,False,False,False,False,False,False,Commune
+17-45632,False,False,False,False,True,False,
+17-45633,False,False,True,False,False,False,
+17-45635,False,False,False,False,True,False,
+17-45639,False,False,False,False,True,False,
+17-45640,False,False,True,False,False,False,
+17-45645,False,False,True,False,False,False,
+17-45646,False,False,False,False,True,False,
+17-45647,False,False,True,False,False,False,
+17-45652,False,False,True,False,False,False,
+17-45653,False,False,False,False,True,False,
+17-45660,False,False,True,False,False,False,
+17-45662,False,False,True,False,False,False,
+17-45695,False,False,False,False,True,False,
+17-83721,False,False,True,False,False,False,
+17-45701,False,False,False,False,True,False,
+17-45702,False,False,True,False,False,False,
+17-45704,False,False,True,False,False,False,
+17-45705,True,False,False,False,False,False,
+17-45706,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-45711,False,False,True,False,False,False,
+17-45715,False,False,True,False,False,False,
+17-45717,False,False,True,False,False,False,
+17-45724,False,False,False,False,False,False,Sapeurs-pompiers
+17-45725,False,False,True,False,False,False,
+17-45734,False,False,True,False,False,False,
+17-45735,False,False,False,False,False,False,Etablissement Public de Coopération intercommunal
+17-45737,False,False,False,False,False,False,Mairie de Troissy
+17-45739,False,False,True,False,False,False,
+17-45746,False,False,False,False,False,False,EPSM
+17-45749,False,False,True,False,False,False,
+17-45752,False,False,False,False,False,False,Etablissement public de santé
+17-45755,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+17-45757,False,False,True,False,False,False,
+17-45766,False,False,False,False,True,False,
+17-45767,False,False,True,False,False,False,
+17-45768,False,False,True,False,False,False,
+17-45769,False,False,True,False,False,False,
+17-45770,False,False,False,False,True,False,
+17-45775,False,False,False,True,False,False,
+17-45785,False,False,False,False,False,False,Département
+17-45790,False,False,False,False,False,False,Organisme privé de sécurité sociale
+17-45791,False,False,True,False,False,False,
+17-45796,False,False,False,False,False,False,Opérateur logements intermédiaires
+17-45797,False,False,True,False,False,False,
+17-45799,False,False,False,False,True,False,
+17-45804,False,False,True,False,False,False,
+17-45816,False,False,True,False,False,False,
+17-45817,False,False,False,False,True,False,
+17-45823,False,False,True,False,False,False,
+17-45828,False,False,True,False,False,False,
+17-83679,False,False,False,False,True,False,
+17-45838,False,False,False,False,False,False,EPSCP
+17-34218,False,False,False,True,False,False,
+17-45856,False,False,True,False,False,False,
+17-61504,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-45874,False,False,True,False,False,False,
+17-45875,False,False,True,False,False,False,
+17-45876,False,False,True,False,False,False,
+17-45877,False,False,False,False,False,False,Etablissement Public Teritorial
+17-83144,False,False,False,False,False,False,Etablissement de santé
+17-45889,False,False,False,False,True,False,
+17-45891,False,False,False,False,False,False,Etablissement public de santé
+17-45892,False,False,False,False,False,False,Etablissement public de santé
+17-45898,False,False,False,False,True,False,
+17-45900,False,False,False,False,True,False,
+17-45903,True,False,False,False,False,False,
+17-45908,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-45909,False,False,True,False,False,False,
+17-45910,False,False,True,False,False,False,
+17-45911,False,False,True,False,False,False,
+17-45918,True,False,False,False,False,False,
+17-45921,False,False,True,False,False,False,
+17-67339,False,False,True,False,False,False,
+17-45932,False,False,False,False,True,False,
+17-45933,False,False,True,False,False,False,
+17-45934,False,False,False,False,False,False,Ecole de commerce
+17-45935,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+17-45939,False,False,False,False,False,False,Organisme de protection sociale
+17-45943,False,False,False,False,False,False,Etablissement public de santé
+17-61280,False,False,True,False,False,False,
+17-45951,False,False,False,False,True,False,
+17-45953,False,False,False,True,False,False,
+17-45954,False,False,False,True,False,False,
+17-45956,False,False,True,False,False,False,
+17-45960,False,False,True,False,False,False,
+17-45961,True,False,False,False,False,False,
+17-45962,False,False,True,False,False,False,
+17-84073,False,False,True,False,False,False,
+17-45969,False,False,True,False,False,False,
+17-45970,False,False,False,False,True,False,
+17-45972,False,False,True,False,False,False,
+17-45975,False,False,True,False,False,False,
+17-45980,False,False,True,False,False,False,
+17-45981,False,False,False,False,False,False,Etablissement public de santé
+17-45985,True,False,False,False,False,False,
+17-45990,False,False,True,False,False,False,
+17-61797,False,False,True,False,False,False,
+17-45993,False,False,True,False,False,False,
+17-45996,False,False,True,False,False,False,
+17-61421,False,False,True,False,False,False,
+17-46005,False,False,False,False,False,False,Gestionnaire aéroportuaire
+17-46006,False,False,False,False,True,False,
+17-46011,False,False,False,False,False,False,Centre Hospitalier Régional et Universitaire Santé
+17-46013,False,False,False,False,False,False,Collectivité territoriale.
+17-46014,False,False,True,False,False,False,
+17-64297,False,False,False,False,False,False,Etablissement public administratif
+17-46019,False,False,False,False,True,False,
+17-46020,False,False,False,False,True,False,
+17-46022,False,False,False,False,False,False,Organisme de droit privé à capitaux publics
+17-46030,False,False,True,False,False,False,
+17-46033,True,False,False,False,False,False,
+17-46037,False,False,False,False,True,False,
+17-46038,False,False,False,False,False,False,Enseignement
+17-46049,False,False,False,False,True,False,
+17-46052,False,False,False,False,False,False,centre hospitalier
+17-62118,False,False,False,False,False,False,Université
+17-61395,False,False,False,False,True,False,
+17-46058,False,False,True,False,False,False,
+17-46067,False,False,True,False,False,False,
+17-46072,True,False,False,False,False,False,
+17-46073,True,False,False,False,False,False,
+17-46077,False,False,True,False,False,False,
+17-46080,False,False,False,False,False,False,organisme de droit public
+17-46081,False,False,False,False,True,False,
+17-46084,False,False,True,False,False,False,
+17-46085,False,False,True,False,False,False,
+17-61509,False,False,False,False,False,False,Etablissement Public
+17-46090,False,False,True,False,False,False,
+17-46091,False,False,False,False,True,False,
+17-66851,False,False,False,False,False,False,Chambre de Commerce et d'Industrie
+17-46095,False,False,True,False,False,False,
+17-46096,False,False,False,False,True,False,
+17-46099,False,False,False,False,True,False,
+17-46103,False,False,False,False,True,False,
+17-46104,False,False,True,False,False,False,
+17-46107,False,False,True,False,False,False,
+17-46114,True,False,False,False,False,False,
+17-46115,False,False,True,False,False,False,
+17-46116,True,False,False,False,False,False,
+17-46122,False,False,False,False,False,False,Santé
+17-46123,False,False,False,False,False,False,Organisme de sécurité sociale
+17-46128,False,False,False,False,True,False,
+17-46134,False,False,True,False,False,False,
+17-46135,False,False,False,False,False,False,collectivité territoriale
+17-46141,False,False,False,False,False,False,Collectivité territoriale
+17-46144,False,False,False,False,False,False,Groupement de commandes
+17-46145,True,False,False,False,False,False,
+17-46154,False,False,True,False,False,False,
+17-46158,False,False,False,False,False,False,Enseignement supérieur et recherche
+17-46161,False,False,False,False,True,False,
+17-46165,False,False,True,False,False,False,
+17-46169,False,False,True,False,False,False,
+17-46177,False,False,False,False,False,False,Etablissement Public de coopération intercommunale
+17-46186,False,False,False,True,False,False,
+17-46187,False,False,False,False,False,False,EPS
+17-46190,False,False,True,False,False,False,
+17-46196,False,False,False,False,True,False,
+17-46198,False,False,True,False,False,False,
+17-46199,False,False,False,False,True,False,
+17-46200,False,False,False,False,False,False,Gestionnaire d'aéroport
+17-46203,False,False,True,False,False,False,
+17-46204,True,False,False,False,False,False,
+17-46206,False,False,False,False,True,False,
+17-46208,False,False,True,False,False,False,
+17-46211,False,False,True,False,False,False,
+17-46212,False,False,False,False,False,False,commune
+17-46215,False,False,False,False,False,False,Centre Hospitalier
+17-46216,False,False,True,False,False,False,
+17-46217,False,False,False,False,True,False,
+17-46220,False,False,True,False,False,False,
+17-46223,False,False,False,False,False,False,Commune
+17-46226,False,False,True,False,False,False,
+17-46234,False,False,False,False,True,False,
+17-46242,False,False,True,False,False,False,
+17-63055,False,False,True,False,False,False,
+17-46251,False,False,True,False,False,False,
+17-46255,False,False,True,False,False,False,
+17-61407,False,False,False,True,False,False,
+17-46259,False,False,False,False,False,False,centre hospitalier
+17-46262,False,False,True,False,False,False,
+17-46263,False,False,False,False,True,False,
+17-46268,False,False,True,False,False,False,
+17-46269,False,False,True,False,False,False,
+17-46276,False,False,True,False,False,False,
+17-46278,True,False,False,False,False,False,
+17-46282,False,False,True,False,False,False,
+17-46288,False,False,False,False,False,False,Etablissement public de santé
+17-46293,True,False,False,False,False,False,
+17-46294,False,False,True,False,False,False,
+17-46295,True,False,False,False,False,False,
+17-46298,False,False,False,True,False,False,
+17-46300,False,False,False,False,True,False,
+17-46304,False,False,False,False,True,False,
+17-46310,False,False,True,False,False,False,
+17-46316,False,False,True,False,False,False,
+17-46322,False,False,True,False,False,False,
+17-46324,False,False,True,False,False,False,
+17-46325,False,False,False,False,True,False,
+17-46328,False,False,True,False,False,False,
+17-46331,False,False,False,True,False,False,
+17-46332,False,False,False,False,True,False,
+17-46333,True,False,False,False,False,False,
+17-46334,False,False,True,False,False,False,
+17-46339,False,False,False,False,False,False,Centrale d'achat
+17-83588,False,False,True,False,False,False,
+17-46341,False,False,False,False,True,False,
+17-46342,False,False,False,False,True,False,
+17-46344,False,False,False,False,False,False,EPCI
+17-46350,False,False,True,False,False,False,
+17-46352,False,False,False,False,False,False,Organisme consulaire
+17-46353,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+17-46354,False,False,False,False,False,False,Office Public de l'Habitat
+17-46355,False,False,False,False,False,False,Etablissement Public de santé
+17-46356,False,False,False,False,True,False,
+17-46358,False,False,False,False,False,False,Délégation de service public
+17-85785,True,False,False,False,False,False,
+17-46364,False,False,False,False,True,False,
+17-46366,False,False,True,False,False,False,
+17-46370,False,False,False,False,False,False,EPA
+17-46372,False,False,True,False,False,False,
+17-46377,False,False,False,False,True,False,
+17-46379,False,False,False,False,False,False,Etablissement public administratif
+17-46380,False,False,False,False,False,False,Association loi 1901
+17-46381,False,False,True,False,False,False,
+17-46383,False,False,False,False,False,False,Etablissement public
+17-46386,False,False,True,False,False,False,
+17-46388,False,False,False,False,True,False,
+17-46389,False,False,True,False,False,False,
+17-46393,False,False,True,False,False,False,
+17-46396,False,False,True,False,False,False,
+17-46401,True,False,False,False,False,False,
+17-46402,False,False,True,False,False,False,
+17-46403,False,False,True,False,False,False,
+17-46406,False,False,False,False,True,False,
+17-46408,False,False,True,False,False,False,
+17-46410,False,False,False,False,False,False,autre
+17-46411,False,False,False,False,False,False,autre
+17-46412,False,False,False,False,False,False,autre
+17-46414,False,False,True,False,False,False,
+17-46415,False,False,False,False,True,False,
+17-46416,False,False,True,False,False,False,
+17-46421,False,False,False,False,True,False,
+17-46422,False,False,True,False,False,False,
+17-46423,False,False,True,False,False,False,
+17-46425,False,False,False,False,True,False,
+17-46427,True,False,False,False,False,False,
+17-46428,False,False,True,False,False,False,
+17-83725,False,False,False,False,True,False,
+17-46431,False,False,False,False,False,False,Mairie
+17-46437,False,False,False,False,True,False,
+17-46438,False,False,False,False,False,False,COMMUNE DE SCHERWILLER
+17-46443,False,False,False,False,True,False,
+17-46445,False,False,False,False,True,False,
+17-46450,False,False,False,False,True,False,
+17-46459,False,False,False,False,True,False,
+17-46460,False,False,False,False,False,False,établissement publics
+17-61990,False,False,True,False,False,False,
+17-46465,False,False,False,False,True,False,
+17-46467,True,False,False,False,False,False,
+17-46468,False,False,False,False,False,False,Centrale d'achat informatique des Régions
+17-84035,False,False,False,False,True,False,
+17-46484,False,False,False,False,True,False,
+17-46485,False,False,True,False,False,False,
+17-46487,True,False,False,False,False,False,
+17-46490,False,False,False,False,True,False,
+17-46493,False,False,True,False,False,False,
+17-46495,False,False,True,False,False,False,
+17-46503,False,False,False,False,False,False,Aménagement et urbanisme
+17-85235,False,False,False,False,True,False,
+17-46511,False,False,False,False,False,False,EPCI
+17-83900,False,False,True,False,False,False,
+17-83761,False,False,False,False,False,False,EPIC
+17-46516,False,False,False,False,True,False,
+17-46517,True,False,False,False,False,False,
+17-46519,False,False,False,False,False,False,autre
+17-46521,False,False,True,False,False,False,
+17-46524,False,False,False,False,True,False,
+17-46529,False,False,True,False,False,False,
+17-46530,False,False,False,False,True,False,
+17-46532,False,False,False,False,False,False,Collectivité Territoriale
+17-46533,False,False,True,False,False,False,
+17-46535,False,False,False,False,True,False,
+17-46538,False,False,False,False,False,False,Syndicat mixte ouvert
+17-46539,False,False,False,False,False,False,Etablissement public de santé
+17-46541,False,False,False,False,False,False,SYNDICAT MIXTE
+17-46542,False,False,True,False,False,False,
+17-46543,False,False,False,False,True,False,
+17-62147,False,False,True,False,False,False,
+17-46546,False,False,True,False,False,False,
+17-46549,False,False,True,False,False,False,
+17-46552,False,False,False,False,False,False,Collectivité territoriale
+17-46554,False,False,True,False,False,False,
+17-46559,False,False,False,False,False,False,Etablissement Public de Santé
+17-46560,False,False,True,False,False,False,
+17-46561,False,False,True,False,False,False,
+17-46562,False,False,True,False,False,False,
+17-46571,True,False,False,False,False,False,
+17-46580,False,False,False,False,False,False,hôpitaux
+17-46583,False,False,True,False,False,False,
+17-46597,False,False,True,False,False,False,
+17-46607,False,False,True,False,False,False,
+17-46608,False,False,True,False,False,False,
+17-46609,False,False,True,False,False,False,
+17-46610,False,False,False,False,False,False,ENTREPRISE SOCIALE POUR L'HABITAT / PROMOTEUR PRIVE
+17-46625,False,False,False,False,False,False,EPA
+17-46630,False,False,False,False,False,False,Société Publique Locale (SPL)
+17-46633,False,False,False,False,True,False,
+17-46637,True,False,False,False,False,False,
+17-46638,False,False,True,False,False,False,
+17-46643,False,False,True,False,False,False,
+17-46649,False,False,False,False,True,False,
+17-46651,False,False,True,False,False,False,
+17-46662,False,False,True,False,False,False,
+17-46669,False,False,True,False,False,False,
+17-46670,False,False,True,False,False,False,
+17-46673,False,False,True,False,False,False,
+17-46675,False,False,False,False,True,False,
+17-46683,False,False,False,False,True,False,
+17-46684,True,False,False,False,False,False,
+17-46687,False,False,False,False,True,False,
+17-46688,False,False,True,False,False,False,
+17-46689,False,False,True,False,False,False,
+17-46690,True,False,False,False,False,False,
+17-46691,False,False,False,False,False,False,Communauté d'agglomération Démbeni Mamoudzou
+17-46692,False,False,False,False,True,False,
+17-46696,False,False,False,False,False,False,organisme de sécurité sociale
+17-46701,False,False,False,False,False,False,Régie Immobilière de la Ville de Paris
+17-46704,False,False,False,False,False,False,Groupement européen d'intérêt économique Seine-Escaut
+17-46711,False,False,False,False,False,False,Etablissement Public de Santé
+17-46712,True,False,False,False,False,False,
+17-46715,False,False,True,False,False,False,
+17-46719,False,False,False,False,True,False,
+17-46722,False,False,True,False,False,False,
+17-46723,False,False,True,False,False,False,
+17-46725,False,False,False,False,False,False,OPH
+17-46727,False,False,False,False,False,False,groupement de commandes
+17-46733,True,False,False,False,False,False,
+17-46734,False,False,True,False,False,False,
+17-46738,False,False,False,False,False,False,Entité Adjudicatrice
+17-46741,False,False,True,False,False,False,
+17-46745,True,False,False,False,False,False,
+17-46749,False,False,False,False,False,False,Etablissement de santé
+17-46751,False,False,True,False,False,False,
+17-46752,False,False,False,False,True,False,
+17-46754,False,False,True,False,False,False,
+17-46755,False,False,False,False,True,False,
+17-46769,False,False,True,False,False,False,
+17-46771,True,False,False,False,False,False,
+17-46772,False,False,True,False,False,False,
+17-46776,False,False,True,False,False,False,
+17-46782,False,False,False,False,False,False,ESH
+17-46783,False,False,True,False,False,False,
+17-46784,True,False,False,False,False,False,
+17-86317,False,False,True,False,False,False,
+17-46788,False,False,True,False,False,False,
+17-46791,False,False,True,False,False,False,
+17-46792,False,False,True,False,False,False,
+17-46793,False,False,True,False,False,False,
+17-46795,False,False,False,False,True,False,
+17-46803,True,False,False,False,False,False,
+17-84668,False,False,False,False,False,False,santé
+17-46811,False,False,True,False,False,False,
+17-46813,False,False,True,False,False,False,
+17-46814,False,False,False,False,True,False,
+17-46817,False,False,False,False,False,False,Etablissement de Santé Public
+17-46818,False,False,True,False,False,False,
+17-46820,False,False,False,False,True,False,
+17-46822,False,False,True,False,False,False,
+17-46823,False,False,False,False,True,False,
+17-46832,True,False,False,False,False,False,
+17-46834,False,False,False,False,True,False,
+17-46836,False,False,False,False,True,False,
+17-85214,False,False,True,False,False,False,
+17-46848,False,False,True,False,False,False,
+17-46851,False,False,True,False,False,False,
+17-62161,False,False,False,False,False,False,Organisme de Sécurité Sociale
+17-46856,False,False,False,False,False,False,Organisme de sécurité sociale
+17-46859,False,False,False,False,False,False,EPCI
+17-46860,False,False,True,False,False,False,
+17-46864,False,False,True,False,False,False,
+17-46868,False,False,True,False,False,False,
+17-46873,True,False,False,False,False,False,
+17-46882,False,False,True,False,False,False,
+17-46887,False,False,False,False,False,False,centre hospitalier
+17-46893,False,False,False,False,True,False,
+17-46896,False,False,False,False,True,False,
+17-46900,False,False,False,False,False,False,EPSCP
+17-46902,False,False,True,False,False,False,
+17-46903,True,False,False,False,False,False,
+17-46905,False,False,False,False,False,False,Sem
+17-46908,False,False,False,False,True,False,
+17-46909,False,False,False,False,False,False,Union Immobilière
+17-46911,False,False,True,False,False,False,
+17-46913,True,False,False,False,False,False,
+17-46916,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE D'AMENAGEMENT
+17-46917,False,False,True,False,False,False,
+17-46919,False,False,True,False,False,False,
+17-46924,False,False,True,False,False,False,
+17-46926,False,False,False,False,True,False,
+17-46927,False,False,False,False,True,False,
+17-46934,False,False,True,False,False,False,
+17-46935,True,False,False,False,False,False,
+17-46937,False,False,True,False,False,False,
+17-46942,True,False,False,False,False,False,
+17-46943,False,False,False,False,True,False,
+17-46944,False,False,True,False,False,False,
+17-46945,False,False,False,False,False,False,établissement public de santé
+17-46950,False,False,False,False,False,False,societe d'economie mixte d'amenagement et de construction
+17-46952,False,False,False,True,False,False,
+17-46954,False,False,False,False,False,False,centre hospitalier
+17-46957,False,False,True,False,False,False,
+17-46962,False,False,False,False,False,False,EPS
+17-46964,False,False,False,False,False,False,autre
+17-62067,False,False,False,True,False,False,
+17-46968,False,False,False,False,False,False,Commune
+17-46969,False,False,False,True,False,False,
+17-46970,False,False,False,False,False,False,Organisme de Sécurité Sociale
+17-46973,False,False,False,False,True,False,
+17-46974,False,False,True,False,False,False,
+17-46979,False,False,False,False,True,False,
+17-46981,False,False,True,False,False,False,
+17-46982,False,False,False,False,True,False,
+17-46985,False,False,True,False,False,False,
+17-46989,False,False,False,False,False,False,MOSELIS
+17-46991,True,False,False,False,False,False,
+17-46992,False,False,True,False,False,False,
+17-83260,False,False,True,False,False,False,
+17-46999,True,False,False,False,False,False,
+17-47008,False,False,False,False,False,False,Ets public de santé
+17-47012,False,False,True,False,False,False,
+17-47015,True,False,False,False,False,False,
+17-47016,False,False,False,False,True,False,
+17-86427,False,False,True,False,False,False,
+17-47028,False,False,True,False,False,False,
+17-47030,False,False,True,False,False,False,
+17-47031,False,False,True,False,False,False,
+17-47032,False,False,True,False,False,False,
+17-47035,False,False,False,False,True,False,
+17-86504,False,False,False,False,False,False,Organisme de sécurité sociale de professionnels libéraux
+17-47037,False,False,True,False,False,False,
+17-47039,False,False,False,False,False,False,MOSELIS
+17-47040,True,False,False,False,False,False,
+17-47041,False,False,False,False,True,False,
+17-47049,False,False,False,False,True,False,
+17-47053,False,False,False,False,True,False,
+17-47054,False,False,False,False,True,False,
+17-47055,False,False,True,False,False,False,
+17-47058,False,False,False,True,False,False,
+17-58436,False,False,True,False,False,False,
+17-47061,False,False,True,False,False,False,
+17-47063,False,False,True,False,False,False,
+17-47071,False,False,False,False,False,False,Blanchisserie interhospitalière
+17-47072,False,False,False,False,False,False,Etablissement Public de Santé
+17-47075,False,False,False,False,True,False,
+17-47078,False,False,False,False,True,False,
+17-47079,False,False,False,False,True,False,
+17-47085,False,False,False,False,True,False,
+17-47088,True,False,False,False,False,False,
+17-47093,False,False,False,False,True,False,
+17-47099,False,False,True,False,False,False,
+17-47100,False,False,True,False,False,False,
+17-63953,False,False,False,False,False,False,Société Public Locale d'Aménagement
+17-47104,False,False,False,False,False,False,organisme de sécurité sociale
+17-47105,False,False,True,False,False,False,
+17-47106,True,False,False,False,False,False,
+17-47107,True,False,False,False,False,False,
+17-47110,True,False,False,False,False,False,
+17-47112,False,False,False,False,True,False,
+17-47119,False,False,False,False,True,False,
+17-47122,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-47127,True,False,False,False,False,False,
+17-47133,False,False,False,False,False,False,autre
+17-47137,False,False,True,False,False,False,
+17-47144,False,False,True,False,False,False,
+17-47145,False,False,True,False,False,False,
+17-47146,False,False,True,False,False,False,
+17-47147,False,False,True,False,False,False,
+17-47156,False,False,True,False,False,False,
+17-47158,False,False,False,False,False,False,Organisme de Sécurité Sociale - Urssaf
+17-47160,False,False,True,False,False,False,
+17-47164,False,False,False,False,True,False,
+17-47165,False,False,False,False,False,False,autre organisme privé
+17-47167,False,False,True,False,False,False,
+17-47173,False,False,False,False,False,False,centre hospitalier
+17-47183,False,False,True,False,False,False,
+17-47184,False,False,True,False,False,False,
+17-47186,True,False,False,False,False,False,
+17-47193,True,False,False,False,False,False,
+17-47199,False,False,True,False,False,False,
+17-47202,False,False,True,False,False,False,
+17-47203,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-47206,False,False,False,False,True,False,
+17-47207,False,False,True,False,False,False,
+17-47208,False,False,True,False,False,False,
+17-47212,False,False,False,False,False,False,Etablissement public de santé
+17-47221,False,False,True,False,False,False,
+17-47222,False,False,False,False,True,False,
+17-47223,False,False,True,False,False,False,
+17-84855,False,False,False,False,False,False,EPA
+17-47226,False,False,False,False,False,False,Logement et développement collectif
+17-47228,True,False,False,False,False,False,
+17-85639,False,False,False,False,True,False,
+17-47230,False,False,False,False,True,False,
+17-47240,False,False,False,False,False,False,autre
+17-47242,False,False,False,False,True,False,
+17-47247,False,False,True,False,False,False,
+17-47248,False,False,False,False,True,False,
+17-47259,False,False,False,False,True,False,
+17-47262,True,False,False,False,False,False,
+17-47267,False,False,False,False,True,False,
+17-47270,False,False,False,False,False,False,Etablissement public administratif
+17-47273,False,False,False,False,True,False,
+17-47274,False,False,True,False,False,False,
+17-47275,False,False,False,False,False,False,EPS
+17-47279,False,False,True,False,False,False,
+17-47280,False,False,False,False,True,False,
+17-47286,False,False,False,False,True,False,
+17-47287,False,False,False,False,False,False,Organisme privé de sécurité sociale
+17-47289,False,False,False,False,True,False,
+17-47292,False,False,False,False,False,False,Commune
+17-47293,False,False,True,False,False,False,
+17-84345,False,False,True,False,False,False,
+17-47298,False,False,True,False,False,False,
+17-47299,False,False,False,False,True,False,
+17-47300,False,False,True,False,False,False,
+17-47302,False,False,True,False,False,False,
+17-47303,False,False,True,False,False,False,
+17-47305,False,False,True,False,False,False,
+17-47308,False,False,False,False,True,False,
+17-47311,False,False,False,False,False,False,Etablissement public de santé
+17-47315,True,False,False,False,False,False,
+17-47320,False,False,False,False,True,False,
+17-47322,False,False,False,False,False,False,Etablissement Public Local Médico-Social Autonome
+17-47324,True,False,False,False,False,False,
+17-86738,False,False,False,False,True,False,
+17-47328,False,False,False,False,True,False,
+17-47329,False,False,True,False,False,False,
+17-47331,False,False,False,False,True,False,
+17-47338,False,False,True,False,False,False,
+17-47339,False,False,False,False,False,False,Syndicat de traitement des ordures ménagères
+17-47341,False,False,True,False,False,False,
+17-47342,False,False,False,False,False,False,Société d'économie mixte
+17-47343,False,False,False,False,True,False,
+17-47344,False,False,False,False,False,False,Société d'Economie mixte
+17-47345,False,False,False,False,True,False,
+17-47348,False,False,False,True,False,False,
+17-47350,False,False,True,False,False,False,
+17-47351,False,False,False,False,False,False,Santé
+17-47357,True,False,False,False,False,False,
+17-64277,False,False,False,False,True,False,
+17-47368,False,False,False,False,True,False,
+17-47376,False,False,True,False,False,False,
+17-47377,False,False,True,False,False,False,
+17-47380,False,False,True,False,False,False,
+17-47381,False,False,False,False,True,False,
+17-47384,False,False,True,False,False,False,
+17-63360,True,False,False,False,False,False,
+17-47400,False,False,True,False,False,False,
+17-47401,False,False,False,False,True,False,
+17-47407,False,False,False,False,True,False,
+17-47409,False,False,True,False,False,False,
+17-47411,False,False,True,False,False,False,
+17-47413,False,False,True,False,False,False,
+17-47416,False,False,False,False,False,False,Société d'Economie mixte
+17-47417,False,False,False,False,False,False,mairie
+17-47419,True,False,False,False,False,False,
+17-47420,False,False,False,False,True,False,
+17-47422,False,False,False,False,True,False,
+17-47423,False,False,True,False,False,False,
+17-47424,False,False,False,False,True,False,
+17-47425,False,False,False,False,False,False,Etablissement public national
+17-47427,True,False,False,False,False,False,
+17-47440,False,False,False,False,True,False,
+17-47441,False,False,True,False,False,False,
+17-62804,False,False,True,False,False,False,
+17-47447,False,False,True,False,False,False,
+17-47448,False,False,True,False,False,False,
+17-47450,True,False,False,False,False,False,
+17-47459,True,False,False,False,False,False,
+17-47463,False,False,True,False,False,False,
+17-47464,False,False,True,False,False,False,
+17-47467,False,False,False,False,False,False,Société publique locale
+17-47477,False,False,False,False,False,False,Société d'économie mixte
+17-47479,False,False,True,False,False,False,
+17-47481,False,False,True,False,False,False,
+17-47482,False,False,True,False,False,False,
+17-47487,False,False,False,False,False,False,"Etablissements publics de santé, établissements publics sociaux et médico-sociaux, groupement de coopération sanitaire"
+17-47495,False,False,False,False,False,False,Syndicat intercommunal
+17-47502,False,False,True,False,False,False,
+17-47511,False,False,True,False,False,False,
+17-47518,False,False,False,False,False,False,Etablissement public National
+17-47520,False,False,True,False,False,False,
+17-47529,False,False,False,False,False,False,Etablissement public territorial de bassin
+17-47530,False,False,False,False,True,False,
+17-47535,False,False,True,False,False,False,
+17-47536,False,False,True,False,False,False,
+17-65179,False,False,False,False,True,False,
+17-47542,False,False,False,False,False,False,Etablissement public territorial de bassin
+17-47547,False,False,False,False,True,False,
+17-47550,False,False,True,False,False,False,
+17-47552,False,False,False,False,False,False,EPCI
+17-62431,False,False,False,False,False,False,collectivité territoriale
+17-47561,False,False,False,False,True,False,
+17-47565,False,False,True,False,False,False,
+17-47566,False,False,True,False,False,False,
+17-47567,False,False,True,False,False,False,
+17-47568,False,False,False,True,False,False,
+17-47575,True,False,False,False,False,False,
+17-47579,False,False,True,False,False,False,
+17-47582,False,False,False,False,False,False,Université
+17-47584,True,False,False,False,False,False,
+17-47585,False,False,True,False,False,False,
+17-63215,False,False,True,False,False,False,
+17-47590,True,False,False,False,False,False,
+17-63120,False,False,False,False,False,False,Protection sociale
+17-47594,False,False,False,False,True,False,
+17-88128,False,False,True,False,False,False,
+17-47602,False,False,False,False,False,False,Groupement de collectivités
+17-47605,False,False,False,False,True,False,
+17-47611,False,False,False,False,True,False,
+17-47615,False,False,False,False,False,False,Organisme de sécurité sociale
+17-47616,False,False,False,False,True,False,
+17-47619,False,False,False,False,True,False,
+17-47620,False,False,False,False,True,False,
+17-47621,True,False,False,False,False,False,
+17-47623,False,False,False,False,True,False,
+17-47625,False,False,True,False,False,False,
+17-47630,False,False,True,False,False,False,
+17-47631,False,False,False,False,False,False,Etablissement public de santé
+17-47632,False,False,True,False,False,False,
+17-47637,False,False,True,False,False,False,
+17-47643,False,False,False,False,True,False,
+17-47652,False,False,False,False,False,False,Etablissement public national
+17-47654,False,False,True,False,False,False,
+17-47659,False,False,True,False,False,False,
+17-47663,False,False,False,False,True,False,
+17-47666,False,False,True,False,False,False,
+17-47669,False,False,False,False,False,False,Services généraux des administrations publiques
+17-47674,False,False,False,False,True,False,
+17-47675,False,False,False,False,True,False,
+17-47681,False,False,False,False,True,False,
+17-47685,False,False,True,False,False,False,
+17-47686,False,False,True,False,False,False,
+17-47687,False,False,True,False,False,False,
+17-47698,False,False,False,False,False,False,Organisme de protection sociale
+17-47701,False,False,False,False,True,False,
+17-47704,False,False,True,False,False,False,
+17-47706,False,False,True,False,False,False,
+17-47709,False,False,False,False,False,False,Assemblée consultative
+17-47710,True,False,False,False,False,False,
+17-47711,False,False,True,False,False,False,
+17-62691,False,False,True,False,False,False,
+17-47717,False,False,False,False,False,False,Établissement public de santé
+17-47718,False,False,False,False,True,False,
+17-65377,False,False,False,False,False,False,Sté HLM
+17-47722,False,False,False,False,True,False,
+17-47724,False,False,True,False,False,False,
+17-47725,False,False,True,False,False,False,
+17-47728,False,False,False,False,True,False,
+17-47731,False,False,True,False,False,False,
+17-47734,False,False,True,False,False,False,
+17-47746,False,False,False,True,False,False,
+17-47747,False,False,False,False,True,False,
+17-47749,False,False,False,False,True,False,
+17-47753,False,False,False,False,False,False,Délégation de service public
+17-47754,False,False,False,False,False,False,Université
+17-47755,False,False,True,False,False,False,
+17-47756,False,False,False,False,False,False,établissement public de santé
+17-47759,False,False,True,False,False,False,
+17-47760,False,False,False,False,False,False,EPCI
+17-47762,False,False,False,False,True,False,
+17-47763,False,False,False,False,False,False,Association (loi 1901) de restauration collective
+17-47769,False,False,False,False,False,False,santé
+17-47774,False,False,False,False,True,False,
+17-47776,True,False,False,False,False,False,
+17-47777,True,False,False,False,False,False,
+17-47779,False,False,False,False,False,False,Etablissement public de santé
+17-47783,False,False,False,False,False,False,Parlement
+17-47784,False,False,False,False,True,False,
+17-47785,True,False,False,False,False,False,
+17-47792,False,False,False,False,True,False,
+17-47793,False,False,False,False,False,False,Collectivité Territoriale
+17-87774,True,False,False,False,False,False,
+17-47797,False,False,False,False,False,False,organisme de droit privé gérant une mission de service public
+17-47798,False,False,False,False,True,False,
+17-63166,False,False,False,False,False,False,Etablissement public de santé
+17-47800,False,False,False,False,False,False,centre hospitalier
+17-47802,False,False,True,False,False,False,
+17-47805,False,False,False,True,False,False,
+17-63273,False,False,False,False,False,False,Santé
+17-47811,True,False,False,False,False,False,
+17-47826,False,False,False,False,False,False,EPS
+17-47831,False,False,True,False,False,False,
+17-47837,False,False,True,False,False,False,
+17-47841,False,False,False,False,True,False,
+17-47842,False,False,False,False,True,False,
+17-47846,False,False,False,False,False,False,EPA
+17-47847,False,False,False,False,False,False,Etablissement Public de Santé
+17-47848,False,False,True,False,False,False,
+17-47849,False,False,True,False,False,False,
+17-47850,False,False,True,False,False,False,
+17-47852,False,False,False,False,False,False,Collectivité territoriale
+17-47854,False,False,False,False,False,False,"Établissement Public à Caractère Scientifique, Culturel et Professionnel (EPSCP)"
+17-47856,False,False,True,False,False,False,
+17-47858,True,False,False,False,False,False,
+17-47859,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-47866,False,False,True,False,False,False,
+17-47868,False,False,True,False,False,False,
+17-47869,False,False,False,False,True,False,
+17-47872,False,False,False,False,False,False,Etablissement Public Autonome
+17-47877,False,False,False,False,True,False,
+17-47878,False,False,True,False,False,False,
+17-47887,False,True,False,False,False,False,
+17-47890,False,False,True,False,False,False,
+17-47891,False,False,True,False,False,False,
+17-47893,False,False,False,False,False,False,centre hospitalier
+17-47894,False,False,True,False,False,False,
+17-47896,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+17-47898,False,False,False,False,False,False,Etablissement Public de Santé
+17-47899,False,False,True,False,False,False,
+17-47900,True,False,False,False,False,False,
+17-47904,False,False,False,False,False,False,Association (loi 1901) de restauration collective
+17-47910,False,False,False,False,False,False,Etablissement public de santé
+17-47911,False,False,False,False,True,False,
+17-47913,False,False,False,False,True,False,
+17-47923,False,False,True,False,False,False,
+17-47924,False,False,True,False,False,False,
+17-47925,False,False,True,False,False,False,
+17-47930,False,False,True,False,False,False,
+17-47931,False,False,False,False,False,False,autre
+17-47934,False,False,False,False,False,False,Établissement public de santé
+17-47936,False,False,True,False,False,False,
+17-63168,False,False,False,False,False,False,Collectivité Territoriale
+17-47940,False,False,False,False,False,False,Etablissement Public de Santé
+17-47942,False,False,True,False,False,False,
+17-47947,False,False,False,False,True,False,
+17-47951,False,False,True,False,False,False,
+17-47953,False,False,True,False,False,False,
+17-47955,False,False,False,False,False,False,Régulation de l'Energie
+17-47963,False,False,True,False,False,False,
+17-47965,False,False,True,False,False,False,
+17-47967,False,False,True,False,False,False,
+17-47968,False,False,False,False,False,False,collectivité locale
+17-47971,False,False,True,False,False,False,
+17-47975,False,False,True,False,False,False,
+17-47977,False,False,True,False,False,False,
+17-85925,False,False,False,False,True,False,
+17-47983,False,False,False,False,False,False,Établissement Public d'Enseignement
+17-47986,False,False,True,False,False,False,
+17-47992,False,False,True,False,False,False,
+17-47997,False,False,False,True,False,False,
+17-48000,False,False,False,False,False,False,CHRU Strasbourg
+17-63643,True,False,False,False,False,False,
+17-48012,False,False,False,False,False,False,EPCI
+17-48013,False,False,True,False,False,False,
+17-48014,False,False,True,False,False,False,
+17-48015,False,False,False,False,False,False,Fondation reconnue d'utilité publique
+17-48016,False,False,True,False,False,False,
+17-48018,False,False,False,False,False,False,Commune
+17-48029,False,False,True,False,False,False,
+17-48033,False,False,True,False,False,False,
+17-61786,False,False,False,False,False,False,SEM
+17-48045,False,False,False,False,False,False,Bailleur social
+17-48054,False,False,False,False,True,False,
+17-48055,False,False,True,False,False,False,
+17-48056,False,False,False,False,False,False,Autre
+17-63392,False,False,True,False,False,False,
+17-48060,False,False,True,False,False,False,
+17-48066,False,False,False,False,True,False,
+17-48069,True,False,False,False,False,False,
+17-48073,False,False,True,False,False,False,
+17-48074,False,False,True,False,False,False,
+17-48075,False,False,True,False,False,False,
+17-48078,False,False,True,False,False,False,
+17-63964,False,False,True,False,False,False,
+17-85372,False,False,True,False,False,False,
+17-48086,False,False,False,False,True,False,
+17-48092,False,False,False,False,True,False,
+17-48094,False,False,False,False,False,False,EPCI
+17-48096,False,False,False,False,True,False,
+17-48097,False,False,False,False,False,False,Entreprise Publique Locale - SEM
+17-48100,False,False,False,False,False,False,centre hospitalier
+17-48101,False,False,True,False,False,False,
+17-48102,True,False,False,False,False,False,
+17-48104,False,False,False,False,False,False,EPIC
+17-48109,False,False,False,False,False,False,Collectivité territoriale.
+17-48115,False,False,False,False,True,False,
+17-48117,False,False,False,False,True,False,
+17-48122,True,False,False,False,False,False,
+17-48124,False,False,True,False,False,False,
+17-48132,True,False,False,False,False,False,
+17-48134,False,False,False,False,True,False,
+17-48136,False,False,True,False,False,False,
+17-48138,False,False,True,False,False,False,
+17-48142,False,False,False,False,False,False,Collectivité territoriale
+17-48144,False,False,False,False,True,False,
+17-64334,False,False,True,False,False,False,
+17-48156,False,False,True,False,False,False,
+17-48162,False,False,True,False,False,False,
+17-48167,False,False,True,False,False,False,
+17-48168,False,False,True,False,False,False,
+17-48178,False,False,True,False,False,False,
+17-48180,False,False,False,False,False,False,Santé
+17-48187,False,False,True,False,False,False,
+17-48189,False,False,False,False,True,False,
+17-48190,False,False,False,False,False,False,Etablissement public d'Etat
+17-48195,False,False,False,False,False,False,centre hospitalier
+17-48196,False,False,True,False,False,False,
+17-48200,False,False,True,False,False,False,
+17-48204,True,False,False,False,False,False,
+17-48206,False,False,False,False,False,False,Sapeurs-pompiers
+17-48207,False,False,True,False,False,False,
+17-48209,False,False,True,False,False,False,
+17-48213,False,False,True,False,False,False,
+17-48214,False,False,True,False,False,False,
+17-48216,True,False,False,False,False,False,
+17-48217,False,False,True,False,False,False,
+17-48222,False,False,False,False,True,False,
+17-48225,False,False,True,False,False,False,
+17-48228,False,False,True,False,False,False,
+17-48234,False,False,True,False,False,False,
+17-48235,False,False,False,False,True,False,
+17-48236,False,False,True,False,False,False,
+17-48241,False,False,True,False,False,False,
+17-48246,False,False,True,False,False,False,
+17-48249,False,False,True,False,False,False,
+17-48250,False,False,False,False,False,False,SEM
+17-48251,False,False,False,False,False,False,Ets public de santé
+17-48254,False,False,False,False,False,False,SEM
+17-88855,False,False,False,False,False,False,Acteur de la rénovation urbaine.
+17-48257,False,False,True,False,False,False,
+17-48259,False,False,False,False,True,False,
+17-48263,False,False,False,False,False,False,Enseignement supérieur et recherche
+17-48264,False,False,True,False,False,False,
+17-48267,False,False,True,False,False,False,
+17-48268,False,False,True,False,False,False,
+17-48270,False,False,True,False,False,False,
+17-48278,False,False,True,False,False,False,
+17-48280,True,False,False,False,False,False,
+17-48281,True,False,False,False,False,False,
+17-87436,False,False,True,False,False,False,
+17-48292,False,False,True,False,False,False,
+17-48296,False,False,True,False,False,False,
+17-48297,False,False,False,False,False,False,Syndicat Mixte Ouvert
+17-48303,False,False,False,False,True,False,
+17-48310,False,False,False,False,True,False,
+17-48311,False,False,False,False,False,False,Santé
+17-48312,False,False,True,False,False,False,
+17-48313,False,False,True,False,False,False,
+17-48314,True,False,False,False,False,False,
+17-48315,False,False,True,False,False,False,
+17-48316,False,False,True,False,False,False,
+17-48317,False,False,True,False,False,False,
+17-48319,False,False,True,False,False,False,
+17-48323,False,False,False,False,False,False,centre hospitalier
+17-64508,False,False,True,False,False,False,
+17-48326,False,False,True,False,False,False,
+17-48327,False,False,True,False,False,False,
+17-48329,False,False,True,False,False,False,
+17-48338,True,False,False,False,False,False,
+17-48339,False,False,False,False,False,False,établissement public de coopération intercommunale (EPCI)
+17-48340,False,False,False,False,False,False,Logement social
+17-48342,True,False,False,False,False,False,
+17-48343,True,False,False,False,False,False,
+17-48347,False,False,True,False,False,False,
+17-48350,False,False,True,False,False,False,
+17-48352,False,False,False,False,True,False,
+17-48353,False,False,True,False,False,False,
+17-63863,True,False,False,False,False,False,
+17-48356,False,True,False,False,False,False,
+17-48358,True,False,False,False,False,False,
+17-48368,False,False,False,False,True,False,
+17-48371,True,False,False,False,False,False,
+17-48372,False,False,True,False,False,False,
+17-48375,False,False,False,False,True,False,
+17-48378,False,False,False,False,True,False,
+17-48379,False,False,False,False,True,False,
+17-48382,False,False,False,False,False,False,Collectivité territoriale
+17-63322,False,False,False,False,False,False,santé
+17-84149,False,False,False,False,False,False,autre
+17-48388,False,False,False,False,True,False,
+17-48392,False,False,True,False,False,False,
+17-48395,False,False,True,False,False,False,
+17-48396,False,False,True,False,False,False,
+17-48397,False,False,False,False,True,False,
+17-48398,False,False,True,False,False,False,
+17-88763,False,False,False,False,True,False,
+17-48402,False,False,True,False,False,False,
+17-48404,False,False,False,False,True,False,
+17-48405,False,False,True,False,False,False,
+17-48406,False,False,False,False,True,False,
+17-48407,False,False,False,False,True,False,
+17-48409,False,False,False,False,False,False,organisme de sécurité sociale
+17-86047,False,False,False,False,True,False,
+17-48417,True,False,False,False,False,False,
+17-48418,False,False,False,False,True,False,
+17-48419,False,False,False,False,True,False,
+17-48420,False,False,False,False,True,False,
+17-48429,False,False,False,False,True,False,
+17-48430,False,False,False,False,False,False,établissement public de coopération intercommunale (EPCI)
+17-48432,False,False,True,False,False,False,
+17-48435,False,False,False,False,False,False,autre
+17-48438,False,False,True,False,False,False,
+17-63997,False,False,True,False,False,False,
+17-86300,False,False,False,False,False,False,Etablissement public de Santé
+17-48458,False,False,False,False,False,False,Groupement de collectivités
+17-48463,False,False,False,False,False,False,Pouvoir adjudicateur
+17-48465,False,False,False,False,False,False,Transport public de voyageurs
+17-48468,False,False,False,False,False,False,Transport public de voyageurs
+17-48469,False,False,False,True,False,False,
+17-48477,False,False,False,False,False,False,Association
+17-88425,False,False,False,False,False,False,établissement public de santé
+17-48483,False,False,True,False,False,False,
+17-48485,False,False,False,False,False,False,Services généraux des administrations publiques
+17-48486,False,False,True,False,False,False,
+17-48491,False,False,False,False,False,False,Université
+17-48494,False,False,False,False,False,False,EPCI
+17-48495,False,False,False,False,False,False,Métropole
+17-48497,False,False,False,False,False,False,OPH DE l'AISNE est désigné comme Coordonnateur du Groupement de Commandes
+17-48498,False,False,False,False,False,False,"Etablissement public à caractère scientifique, culturel et professionnel"
+17-89081,False,False,True,False,False,False,
+17-48502,False,False,True,False,False,False,
+17-64714,False,False,True,False,False,False,
+17-48504,False,False,False,False,True,False,
+17-48509,False,False,False,False,False,False,Syndicat mixte
+17-48510,True,False,False,False,False,False,
+17-48512,False,False,False,False,False,False,Etablissement public national à caractère scientifique culturel et professionnel
+17-48514,False,False,True,False,False,False,
+17-48518,False,False,False,False,False,False,Etablissement d'Enseignement Supérieur de la Recherche et de la Formation Professionnelle
+17-48520,False,False,True,False,False,False,
+17-48521,False,False,False,False,True,False,
+17-85295,False,False,True,False,False,False,
+17-48527,False,False,False,False,True,False,
+17-48535,False,False,False,False,False,False,Etablissement public de santé
+17-48536,False,False,True,False,False,False,
+17-48537,False,False,True,False,False,False,
+17-48543,False,False,True,False,False,False,
+17-48550,False,False,True,False,False,False,
+17-48551,False,False,False,False,True,False,
+17-48557,False,False,True,False,False,False,
+17-48559,False,False,True,False,False,False,
+17-85210,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+17-48562,False,False,False,False,True,False,
+17-48565,False,False,False,False,True,False,
+17-48566,False,False,True,False,False,False,
+17-48569,False,False,True,False,False,False,
+17-48571,False,False,False,False,False,False,Etablissement Public de Santé
+17-48574,False,False,True,False,False,False,
+17-88851,False,False,False,False,False,False,Collectivité territoriale
+17-48576,False,False,True,False,False,False,
+17-48580,False,False,False,False,True,False,
+17-48583,False,False,False,False,True,False,
+17-48587,True,False,False,False,False,False,
+17-48594,False,False,True,False,False,False,
+17-48595,False,False,False,False,True,False,
+17-64649,False,False,True,False,False,False,
+17-48600,False,False,False,False,True,False,
+17-48605,False,False,False,False,True,False,
+17-48608,False,False,False,False,True,False,
+17-48617,False,False,True,False,False,False,
+17-48618,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunal
+17-48620,False,False,False,False,True,False,
+17-48621,False,False,True,False,False,False,
+17-48622,True,False,False,False,False,False,
+17-48623,False,False,False,False,False,False,établissement de santé public
+17-48624,False,False,True,False,False,False,
+17-48625,True,False,False,False,False,False,
+17-48626,False,False,True,False,False,False,
+17-34415,False,False,False,False,True,False,
+17-48634,False,False,False,False,True,False,
+17-48640,False,False,True,False,False,False,
+17-48649,False,False,True,False,False,False,
+17-48660,False,False,False,False,False,False,Etablissement Public de Santé
+17-48661,True,False,False,False,False,False,
+17-48663,False,False,True,False,False,False,
+17-48664,False,False,False,False,False,False,établissement intercommunal
+17-48668,False,False,True,False,False,False,
+17-48670,False,False,False,False,True,False,
+17-48675,False,False,True,False,False,False,
+17-48679,False,False,False,True,False,False,
+17-88624,False,False,True,False,False,False,
+17-48688,False,False,True,False,False,False,
+17-48692,False,False,False,False,False,False,syndicat mixte
+17-48693,False,False,False,False,True,False,
+17-48694,False,False,False,False,False,False,Collectivité territorial
+17-48698,False,False,False,False,True,False,
+17-48703,False,False,False,False,True,False,
+17-48704,True,False,False,False,False,False,
+17-88886,False,False,False,False,False,False,Ets public de Santé
+17-48711,True,False,False,False,False,False,
+17-48717,False,False,False,False,True,False,
+17-85323,False,False,False,False,True,False,
+17-48719,False,False,True,False,False,False,
+17-48723,False,False,True,False,False,False,
+17-64264,False,False,False,False,False,False,Santé
+17-48728,False,False,False,False,True,False,
+17-48736,False,False,True,False,False,False,
+17-48739,False,False,False,False,True,False,
+17-48740,True,False,False,False,False,False,
+17-48745,False,False,False,False,True,False,
+17-48750,False,False,False,True,False,False,
+17-48751,False,False,True,False,False,False,
+17-63969,False,False,False,False,False,False,établissement de santé
+17-48757,False,False,False,False,False,False,Protection sociale
+17-48761,False,False,False,False,False,False,Etablissement Public de Santé
+17-48764,False,False,True,False,False,False,
+17-48766,True,False,False,False,False,False,
+17-48767,False,False,True,False,False,False,
+17-48768,False,False,True,False,False,False,
+17-48770,False,False,True,False,False,False,
+17-48775,False,False,False,False,False,False,Etablissement Public
+17-48778,False,False,True,False,False,False,
+17-89621,False,False,False,False,True,False,
+17-48780,False,False,False,False,True,False,
+17-48781,False,False,False,False,True,False,
+17-48782,False,False,True,False,False,False,
+17-48796,False,False,False,False,True,False,
+17-65691,False,False,False,False,True,False,
+17-48802,False,False,True,False,False,False,
+17-48807,False,False,True,False,False,False,
+17-48809,False,False,True,False,False,False,
+17-48815,False,False,True,False,False,False,
+17-48822,False,False,False,False,True,False,
+17-48824,False,False,False,False,False,False,Société Anonyme d'Economie Mixte
+17-48830,True,False,False,False,False,False,
+17-48835,False,False,False,True,False,False,
+17-48836,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-48841,False,False,False,True,False,False,
+17-48844,False,False,False,False,True,False,
+17-48846,False,False,False,False,True,False,
+17-48847,False,False,True,False,False,False,
+17-48848,False,False,False,False,False,False,Organisme de sécurité sociale
+17-48849,True,False,False,False,False,False,
+17-48859,False,False,True,False,False,False,
+17-80295,False,False,True,False,False,False,
+17-48861,False,False,False,False,True,False,
+17-48862,False,False,True,False,False,False,
+17-48866,False,False,True,False,False,False,
+17-48868,False,False,False,False,True,False,
+17-48870,False,False,False,False,False,False,METROPOLE
+17-63674,False,False,True,False,False,False,
+17-48874,False,False,False,False,True,False,
+17-48878,False,False,False,False,False,False,SPL
+17-86112,False,False,False,False,True,False,
+17-48885,False,False,False,False,True,False,
+17-48886,False,False,False,False,True,False,
+17-48889,False,False,True,False,False,False,
+17-48891,True,False,False,False,False,False,
+17-48893,False,False,True,False,False,False,
+17-48895,False,False,True,False,False,False,
+17-48896,False,False,True,False,False,False,
+17-64050,False,False,True,False,False,False,
+17-48898,False,False,False,False,False,False,SEM
+17-48899,False,False,True,False,False,False,
+17-48900,False,False,False,False,True,False,
+17-63848,True,False,False,False,False,False,
+17-48904,False,False,True,False,False,False,
+17-48909,False,False,True,False,False,False,
+17-74124,True,False,False,False,False,False,
+17-48914,False,False,True,False,False,False,
+17-48916,False,False,False,False,True,False,
+17-48918,False,False,False,False,False,False,Collectivité territoriale.
+17-91095,False,False,True,False,False,False,
+17-48922,False,False,True,False,False,False,
+17-48925,False,False,False,False,False,False,Société publique locale
+17-48927,False,False,False,False,True,False,
+17-48928,False,False,False,False,False,False,INSTITUT FRANÇAIS DES SCIENCES ET TECHNOLOGIE DES TRANSPORTS DE LAMÉNAGEMENT ET DES RÉSEAUX
+17-48929,False,False,False,False,True,False,
+17-48933,False,False,False,True,False,False,
+17-48937,False,False,True,False,False,False,
+17-48941,False,False,True,False,False,False,
+17-48943,False,False,True,False,False,False,
+17-48949,True,False,False,False,False,False,
+17-48951,False,False,True,False,False,False,
+17-48958,False,False,True,False,False,False,
+17-48961,False,False,False,False,False,False,SIVU
+17-48965,False,False,True,False,False,False,
+17-48966,False,False,False,False,True,False,
+17-48971,False,False,True,False,False,False,
+17-48972,False,False,True,False,False,False,
+17-65534,False,False,True,False,False,False,
+17-65946,False,False,False,False,False,False,EPCI
+17-48976,False,False,True,False,False,False,
+17-48986,False,False,True,False,False,False,
+17-64247,True,False,False,False,False,False,
+17-48990,True,False,False,False,False,False,
+17-48998,False,False,True,False,False,False,
+17-49000,False,False,False,False,False,False,Etablissement public de santé
+17-49005,False,False,False,False,False,False,OPH et CCAS
+17-49007,False,False,True,False,False,False,
+17-49016,False,False,False,False,False,False,API
+17-49020,False,False,True,False,False,False,
+17-49022,False,False,True,False,False,False,
+17-49023,False,False,True,False,False,False,
+17-49024,True,False,False,False,False,False,
+17-49034,False,False,False,False,True,False,
+17-49036,False,False,True,False,False,False,
+17-49037,False,False,False,False,False,False,collectivité territoriale
+17-49042,True,False,False,False,False,False,
+17-49044,False,False,True,False,False,False,
+17-49051,False,False,True,False,False,False,
+17-49056,False,False,False,False,True,False,
+17-49060,False,False,True,False,False,False,
+17-49062,False,False,False,False,False,False,Etablissement de coopération intercommunale
+17-49065,False,False,True,False,False,False,
+17-49069,True,False,False,False,False,False,
+17-49076,False,False,True,False,False,False,
+17-49078,False,False,True,False,False,False,
+17-49080,False,False,False,False,True,False,
+17-49081,False,False,False,False,True,False,
+17-49089,False,False,False,False,False,False,Autorité publique indépendante
+17-49090,False,False,False,False,False,False,Etablissement Public de Santé
+17-49091,False,False,False,False,False,False,EPLE
+17-49097,True,False,False,False,False,False,
+17-65510,True,False,False,False,False,False,
+17-62006,False,False,True,False,False,False,
+17-49109,False,False,False,False,False,False,EPCI
+17-49117,True,False,False,False,False,False,
+17-49122,False,False,False,False,False,False,Organisme de sécurité sociale de professionnels libéraux
+17-63859,False,False,False,False,True,False,
+17-49128,False,False,True,False,False,False,
+17-49139,False,False,True,False,False,False,
+17-49141,True,False,False,False,False,False,
+17-49143,False,False,False,False,True,False,
+17-49152,False,False,False,False,False,False,Enseignement supérieur
+17-49159,False,False,False,False,False,False,Office public de l'habitat
+17-49161,False,False,False,False,False,False,EPCI
+17-64839,False,False,False,False,True,False,
+17-65832,False,False,True,False,False,False,
+17-49189,False,False,True,False,False,False,
+17-49190,False,False,True,False,False,False,
+17-49193,False,False,False,False,False,False,SEM agissant au nom et pour le compte de la Communauté d'Agglomération Flers Agglo
+17-63921,False,False,True,False,False,False,
+17-49199,False,False,True,False,False,False,
+17-49201,False,False,True,False,False,False,
+17-49207,False,False,True,False,False,False,
+17-49208,False,False,False,False,False,False,INSTITUT FRANÇAIS DES SCIENCES ET TECHNOLOGIE DES TRANSPORTS DE LAMÉNAGEMENT ET DES RÉSEAUX
+17-49210,False,True,False,False,False,False,
+17-49214,False,False,False,False,False,False,Etablissement public de santé
+17-49218,False,False,False,False,False,False,E.P.C.I
+17-49221,False,False,False,False,False,False,Office public d'habitat
+17-49229,False,False,True,False,False,False,
+17-40138,False,False,True,False,False,False,
+17-49233,False,False,False,False,False,False,Aménagement
+17-49240,False,False,False,False,False,False,Assemblée consultative
+17-49241,False,False,True,False,False,False,
+17-49242,False,False,True,False,False,False,
+17-49243,False,False,False,False,False,False,Etablissement administratif public local
+17-84074,False,False,True,False,False,False,
+17-49260,False,False,False,False,False,False,SAEML
+17-88441,False,False,True,False,False,False,
+17-49267,False,False,True,False,False,False,
+17-49268,False,False,False,False,False,False,Société d'économie mixte de construction et de logements sociaux
+17-65315,False,False,False,False,True,False,
+17-49272,False,False,True,False,False,False,
+17-49273,False,False,False,False,False,False,Centre Hospitalier
+17-49274,False,False,False,False,True,False,
+17-49277,False,False,False,False,False,False,CHRU Strasbourg
+17-49279,False,False,False,False,True,False,
+17-49283,False,False,True,False,False,False,
+17-49287,True,False,False,False,False,False,
+17-49290,False,False,False,False,False,False,Mairie
+17-49291,False,False,True,False,False,False,
+17-49294,True,False,False,False,False,False,
+17-49298,False,False,False,False,True,False,
+17-49299,True,False,False,False,False,False,
+17-49304,False,False,True,False,False,False,
+17-49306,False,False,False,False,True,False,
+17-49316,False,False,False,True,False,False,
+17-49317,False,False,False,False,False,False,autre
+17-49318,False,False,True,False,False,False,
+17-49319,False,False,True,False,False,False,
+17-49320,False,False,True,False,False,False,
+17-49322,False,False,False,False,True,False,
+17-65684,False,False,False,False,True,False,
+17-49324,False,False,False,False,False,False,Collectivité territoriale - commune
+17-49326,False,False,False,False,True,False,
+17-49327,False,False,True,False,False,False,
+17-49331,False,False,True,False,False,False,
+17-49332,False,False,True,False,False,False,
+17-49333,False,False,False,False,True,False,
+17-49334,False,False,True,False,False,False,
+17-49339,False,False,True,False,False,False,
+17-49343,False,False,False,False,False,False,Établissement public de l'enseignement supérieur
+17-87926,False,False,True,False,False,False,
+17-49349,False,False,False,False,False,False,Gestion restaurant administratif.
+17-49352,False,False,True,False,False,False,
+17-49353,False,False,True,False,False,False,
+17-49354,False,False,False,False,False,False,autre
+17-49355,False,False,True,False,False,False,
+17-49357,False,False,False,True,False,False,
+17-49359,True,False,False,False,False,False,
+17-49364,False,False,True,False,False,False,
+17-49366,False,False,True,False,False,False,
+17-49367,False,False,False,False,True,False,
+17-49368,False,False,False,False,False,False,COOP HLM HABITAT REUNI
+17-49370,False,False,True,False,False,False,
+17-49372,False,False,False,False,False,False,santé
+17-49374,False,False,True,False,False,False,
+17-88564,False,False,True,False,False,False,
+17-49380,False,False,False,False,True,False,
+17-49382,False,False,False,True,False,False,
+17-49388,False,False,False,False,True,False,
+17-49390,False,False,True,False,False,False,
+17-49395,False,False,False,False,True,False,
+17-49405,False,False,True,False,False,False,
+17-87785,False,False,False,False,False,False,Etablissement de santé publique
+17-49409,False,False,False,False,True,False,
+17-49410,False,False,False,False,True,False,
+17-49414,False,False,False,False,False,False,Office public de l'habitat
+17-49415,False,False,True,False,False,False,
+17-49417,False,False,False,False,True,False,
+17-49420,False,False,False,False,False,False,Protection sociale
+17-49430,False,False,True,False,False,False,
+17-49432,False,False,False,False,False,False,Santé
+17-49438,False,False,True,False,False,False,
+17-49440,False,False,True,False,False,False,
+17-49442,False,False,False,False,False,False,collectivité territoriale
+17-49443,False,False,False,False,True,False,
+17-49454,False,False,False,False,False,False,Immobilier et Aménagement
+17-49455,False,False,False,False,True,False,
+17-49458,False,False,False,False,False,False,Etablissement public de santé
+17-49460,True,False,False,False,False,False,
+17-49464,False,False,False,False,False,False,autre
+17-49468,False,False,True,False,False,False,
+17-49469,False,False,False,False,True,False,
+17-49476,False,False,False,False,True,False,
+17-49485,False,False,True,False,False,False,
+17-49488,False,False,False,False,True,False,
+17-49492,True,False,False,False,False,False,
+17-49493,False,False,False,False,True,False,
+17-49494,False,False,False,False,False,False,EPS
+17-49495,False,False,False,False,False,False,organisme de sécurité sociale
+17-49499,False,False,False,False,True,False,
+17-49501,False,False,False,False,True,False,
+17-49502,False,False,True,False,False,False,
+17-49504,True,False,False,False,False,False,
+17-49509,False,False,False,False,False,False,Etablissement Public de Santé
+17-65666,False,False,False,False,True,False,
+17-49516,False,False,True,False,False,False,
+17-49520,False,False,True,False,False,False,
+17-49527,False,False,False,False,True,False,
+17-49529,False,False,True,False,False,False,
+17-49531,False,False,False,False,True,False,
+17-49532,False,False,True,False,False,False,
+17-49535,False,False,False,False,True,False,
+17-49536,False,False,True,False,False,False,
+17-65269,False,False,True,False,False,False,
+17-49540,False,False,True,False,False,False,
+17-49541,True,False,False,False,False,False,
+17-49544,False,False,True,False,False,False,
+17-49545,False,False,True,False,False,False,
+17-49550,False,False,False,False,False,False,Syndicat mixte
+17-49551,False,False,False,False,True,False,
+17-49552,False,False,False,False,True,False,
+17-49553,False,False,False,False,True,False,
+17-49554,False,False,True,False,False,False,
+17-49559,False,False,False,False,False,False,Etablissement public territorial
+17-49562,False,False,False,False,True,False,
+17-49565,False,False,False,False,False,False,Etablissement public de santé
+17-49567,False,False,False,False,False,False,Assurance maladie
+17-49568,False,False,False,False,True,False,
+17-65813,False,False,False,False,True,False,
+17-64615,False,False,True,False,False,False,
+17-49572,False,False,True,False,False,False,
+17-49574,False,False,True,False,False,False,
+17-49575,False,False,False,False,True,False,
+17-49576,False,False,False,False,True,False,
+17-49577,False,False,False,False,True,False,
+17-49579,False,False,True,False,False,False,
+17-49580,True,False,False,False,False,False,
+17-49581,True,False,False,False,False,False,
+17-64736,False,False,True,False,False,False,
+17-49588,False,False,False,False,False,False,Société d'Aménagement d'Economie Mixte
+17-49592,False,False,False,False,False,False,Etablissement Public
+17-49593,False,False,False,False,False,False,Etablissement public de santé
+17-49598,False,False,True,False,False,False,
+17-49601,False,False,True,False,False,False,
+17-49604,False,False,False,False,True,False,
+17-87641,True,False,False,False,False,False,
+17-49617,False,False,True,False,False,False,
+17-49618,True,False,False,False,False,False,
+17-49625,False,False,True,False,False,False,
+17-49629,True,False,False,False,False,False,
+17-49631,False,False,True,False,False,False,
+17-49632,False,False,False,False,True,False,
+17-49637,False,False,False,False,True,False,
+17-49640,False,False,True,False,False,False,
+17-49644,False,False,True,False,False,False,
+17-49654,False,False,True,False,False,False,
+17-49656,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+17-49657,False,False,True,False,False,False,
+17-49658,False,False,True,False,False,False,
+17-49659,False,False,True,False,False,False,
+17-49660,False,False,False,False,False,False,autre
+17-49670,False,False,True,False,False,False,
+17-49671,False,False,False,False,True,False,
+17-49673,True,False,False,False,False,False,
+17-49676,False,False,False,False,True,False,
+17-49683,True,False,False,False,False,False,
+17-49685,False,False,True,False,False,False,
+17-49687,False,False,False,False,True,False,
+17-87654,False,False,True,False,False,False,
+17-49690,False,False,False,False,False,False,Communauté d'agglomération
+17-49692,False,False,False,False,True,False,
+17-49693,False,False,False,True,False,False,
+17-49697,False,False,False,True,False,False,
+17-49701,False,False,False,False,True,False,
+17-49702,False,False,False,True,False,False,
+17-49709,True,False,False,False,False,False,
+17-49710,False,False,False,False,True,False,
+17-49711,False,False,False,False,True,False,
+17-49715,False,False,True,False,False,False,
+17-49719,False,False,True,False,False,False,
+17-49720,False,False,False,False,False,False,Etablissement Public de Santé
+17-65683,False,False,False,False,True,False,
+17-49722,True,False,False,False,False,False,
+17-49723,False,False,True,False,False,False,
+17-49727,False,False,True,False,False,False,
+17-49728,False,False,False,False,True,False,
+17-49736,False,False,True,False,False,False,
+17-49738,False,False,False,False,True,False,
+17-49744,False,False,False,False,False,False,Enseignement supérieur
+17-49746,False,False,False,False,True,False,
+17-49748,True,False,False,False,False,False,
+17-49749,False,False,True,False,False,False,
+17-49750,False,False,False,False,True,False,
+17-49753,False,False,False,False,False,False,Commune
+17-49754,False,False,False,False,True,False,
+17-49755,False,False,True,False,False,False,
+17-49764,False,False,True,False,False,False,
+17-49766,False,False,True,False,False,False,
+17-49768,False,False,False,False,True,False,
+17-49772,False,False,True,False,False,False,
+17-49779,False,False,True,False,False,False,
+17-49782,False,False,True,False,False,False,
+17-49784,False,False,True,False,False,False,
+17-49785,False,False,False,False,True,False,
+17-49796,False,False,True,False,False,False,
+17-49798,False,False,False,False,True,False,
+17-87783,False,False,False,False,True,False,
+17-49805,True,False,False,False,False,False,
+17-49809,False,False,False,False,True,False,
+17-49819,False,False,False,False,True,False,
+17-49826,False,False,False,False,False,False,Etablissement publics de santé
+17-49827,False,False,False,False,True,False,
+17-49828,False,False,False,False,False,False,Santé
+17-49829,False,False,False,False,True,False,
+17-49831,False,False,False,False,True,False,
+17-49834,False,False,False,False,True,False,
+17-49839,False,False,False,False,False,False,autre
+17-49841,False,False,False,False,True,False,
+17-49846,False,False,False,False,True,False,
+17-49847,False,False,True,False,False,False,
+17-49849,False,False,False,False,True,False,
+17-49856,False,False,True,False,False,False,
+17-49863,True,False,False,False,False,False,
+17-49864,False,False,False,False,False,False,Privée
+17-88745,False,False,True,False,False,False,
+17-49871,False,False,True,False,False,False,
+17-49872,False,False,True,False,False,False,
+17-49875,False,False,True,False,False,False,
+17-49877,False,False,False,False,True,False,
+17-49883,False,False,True,False,False,False,
+17-49884,False,False,True,False,False,False,
+17-49891,False,False,True,False,False,False,
+17-49892,True,False,False,False,False,False,
+17-49893,False,False,True,False,False,False,
+17-49894,False,False,True,False,False,False,
+17-49898,False,False,False,True,False,False,
+17-49901,False,False,False,False,False,False,autre établissement de santé
+17-66164,True,False,False,False,False,False,
+17-49905,False,False,True,False,False,False,
+17-49906,False,False,True,False,False,False,
+17-65160,True,False,False,False,False,False,
+17-49919,False,False,False,True,False,False,
+17-49929,False,False,False,False,True,False,
+17-49930,False,False,True,False,False,False,
+17-70097,False,False,False,False,True,False,
+17-49941,False,False,True,False,False,False,
+17-49949,False,False,False,False,True,False,
+17-49950,False,False,True,False,False,False,
+17-33523,False,False,False,False,True,False,
+17-49952,False,False,True,False,False,False,
+17-49953,False,False,False,False,True,False,
+17-13967,False,False,False,False,True,False,
+17-49960,False,False,False,False,False,False,SANTE
+17-49964,True,False,False,False,False,False,
+17-49968,False,False,False,False,False,False,EPS
+17-49969,False,False,True,False,False,False,
+17-49970,False,False,False,False,True,False,
+17-49975,False,False,False,False,False,False,Groupement de commandes
+17-49978,False,False,False,False,True,False,
+17-65800,False,False,False,False,True,False,
+17-49986,False,False,False,False,True,False,
+17-49987,False,False,False,False,True,False,
+17-49995,False,False,False,False,False,False,collectivite locale
+17-49996,False,False,True,False,False,False,
+17-64726,False,False,False,False,False,False,Etablissement Public
+17-49999,False,False,True,False,False,False,
+17-50001,False,False,False,False,True,False,
+17-50007,False,False,False,False,True,False,
+17-50008,False,False,False,False,False,False,commune
+17-66567,False,False,False,False,False,False,EPCI
+17-50020,False,False,True,False,False,False,
+17-50022,False,False,False,False,True,False,
+17-50026,False,False,True,False,False,False,
+17-50027,False,False,True,False,False,False,
+17-50028,False,False,False,False,False,False,Etablissement public de santé
+17-50042,False,False,False,False,True,False,
+17-50043,False,False,False,False,True,False,
+17-50047,False,False,True,False,False,False,
+17-50050,False,False,False,False,False,False,Etablissement Public de Santé
+17-50055,False,False,True,False,False,False,
+17-50056,False,False,False,False,True,False,
+17-50058,False,False,False,False,True,False,
+17-34330,False,False,True,False,False,False,
+17-50064,False,False,False,False,True,False,
+17-50066,False,False,True,False,False,False,
+17-50077,True,False,False,False,False,False,
+17-66372,False,False,True,False,False,False,
+17-50080,False,False,False,False,True,False,
+17-50081,False,False,True,False,False,False,
+17-50083,False,False,False,True,False,False,
+17-50090,False,False,False,False,False,False,Etablissement public de santé
+17-50093,False,False,True,False,False,False,
+17-50095,False,False,False,False,False,False,CCI Alsace Eurométropole
+17-50098,False,False,True,False,False,False,
+17-50107,False,False,False,False,True,False,
+17-50108,False,False,False,False,False,False,SAEML
+17-50111,False,False,True,False,False,False,
+17-50112,False,False,True,False,False,False,
+17-50119,False,False,True,False,False,False,
+17-50120,False,True,False,False,False,False,
+17-66775,False,False,True,False,False,False,
+17-50126,True,False,False,False,False,False,
+17-50132,False,False,False,False,True,False,
+17-50134,False,False,True,False,False,False,
+17-50135,False,False,False,False,False,False,Etablissement de santé
+17-50136,False,False,False,False,True,False,
+17-66321,False,False,True,False,False,False,
+17-50143,False,False,False,False,True,False,
+17-50145,False,False,False,False,True,False,
+17-50148,False,False,False,False,True,False,
+17-50149,False,False,True,False,False,False,
+17-50152,False,False,False,False,True,False,
+17-50154,False,False,False,False,True,False,
+17-50155,False,False,True,False,False,False,
+17-50161,False,False,False,False,False,False,Etablissement public de santé
+17-50169,False,False,True,False,False,False,
+17-50170,False,False,False,False,True,False,
+17-50172,False,False,False,False,True,False,
+17-50176,False,False,True,False,False,False,
+17-50177,False,False,False,False,True,False,
+17-50184,False,False,False,True,False,False,
+17-50185,False,False,True,False,False,False,
+17-50187,False,False,True,False,False,False,
+17-50188,False,False,False,False,True,False,
+17-50194,True,False,False,False,False,False,
+17-50195,False,False,True,False,False,False,
+17-66737,False,False,False,False,False,False,Santé
+17-50199,False,False,False,False,True,False,
+17-50200,False,False,False,False,False,False,Hôpitaux
+17-50204,False,False,True,False,False,False,
+17-50206,False,False,True,False,False,False,
+17-50219,False,False,True,False,False,False,
+17-50221,False,False,False,False,True,False,
+17-50226,True,False,False,False,False,False,
+17-50228,False,False,False,False,False,False,Santé
+17-50230,False,False,True,False,False,False,
+17-50231,False,False,False,False,False,False,Groupement de collectivités
+17-50234,False,False,False,False,True,False,
+17-66779,False,False,True,False,False,False,
+17-50239,False,False,True,False,False,False,
+17-50240,False,False,False,False,False,False,Organisme de droit privé
+17-50245,False,False,True,False,False,False,
+17-50246,False,False,True,False,False,False,
+17-50248,False,False,True,False,False,False,
+17-50250,False,False,True,False,False,False,
+17-50253,False,False,False,False,True,False,
+17-50265,False,False,True,False,False,False,
+17-50266,False,False,False,False,False,False,Établissement public de santé
+17-50270,False,False,True,False,False,False,
+17-50273,False,False,True,False,False,False,
+17-50274,True,False,False,False,False,False,
+17-50280,False,False,True,False,False,False,
+17-50283,False,False,False,False,False,False,autre
+17-50285,False,False,False,False,True,False,
+17-50286,False,False,False,False,False,False,autre
+17-50287,False,False,False,False,True,False,
+17-50294,False,False,True,False,False,False,
+17-50296,False,False,True,False,False,False,
+17-50299,False,False,False,False,True,False,
+17-50302,False,False,True,False,False,False,
+17-50304,False,False,True,False,False,False,
+17-50308,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+17-50309,True,False,False,False,False,False,
+17-50312,False,False,True,False,False,False,
+17-50314,True,False,False,False,False,False,
+17-50321,False,False,True,False,False,False,
+17-50324,False,False,True,False,False,False,
+17-34112,False,False,True,False,False,False,
+17-50331,False,False,True,False,False,False,
+17-50334,False,False,True,False,False,False,
+17-50335,False,False,True,False,False,False,
+17-50336,False,False,True,False,False,False,
+17-50341,False,False,True,False,False,False,
+17-50344,False,False,False,False,False,False,Etablissement public de santé
+17-50345,False,False,False,False,True,False,
+17-50352,False,False,True,False,False,False,
+17-50353,False,False,True,False,False,False,
+17-33907,False,False,False,False,True,False,
+17-50362,False,False,True,False,False,False,
+17-50363,False,False,False,False,True,False,
+17-50367,False,False,False,False,False,False,Centre hospitalier
+17-50371,False,False,True,False,False,False,
+17-50372,False,False,False,False,False,False,Groupement de commandes réunissant la Communauté d'Agglomération Hénin-Carvin et la Communauté de communes de Pévèle Carembault
+17-26951,False,False,False,False,False,False,Commune
+17-89801,False,False,False,False,False,False,Etablissement Public de Santé
+17-50382,False,False,False,False,False,False,ETABLISSEMENT PUBLIC
+17-50383,False,False,False,False,False,False,Centre hospitalier régional d'Orléans
+17-33107,False,False,False,True,False,False,
+17-34380,False,False,True,False,False,False,
+17-50389,False,False,False,False,True,False,
+17-50390,False,False,False,False,True,False,
+17-50394,False,False,False,False,True,False,
+17-50398,False,False,False,False,False,False,université
+17-50399,False,False,False,False,True,False,
+17-50406,False,False,True,False,False,False,
+17-50417,False,False,True,False,False,False,
+17-34072,False,False,False,False,True,False,
+17-33027,False,False,False,False,False,False,Organisme de droit privé chargé d'une mission de service public (sécurité sociale)
+17-50428,False,False,True,False,False,False,
+17-50430,False,False,True,False,False,False,
+17-50435,False,False,False,False,False,False,Etablissement Public de Santé
+17-66410,False,False,True,False,False,False,
+17-50439,False,False,False,False,True,False,
+17-50441,False,False,False,False,True,False,
+17-50442,False,False,True,False,False,False,
+17-30708,True,False,False,False,False,False,
+17-50455,False,False,False,False,False,False,santé
+17-50458,False,False,False,False,False,False,Association loi 1901
+17-50463,False,False,True,False,False,False,
+17-50465,False,False,True,False,False,False,
+17-50466,False,False,True,False,False,False,
+17-50469,False,False,False,False,True,False,
+17-50471,False,False,True,False,False,False,
+17-50473,False,False,True,False,False,False,
+17-50474,True,False,False,False,False,False,
+17-50475,False,False,False,False,True,False,
+17-50476,False,False,False,False,False,False,Santé
+17-50478,False,False,False,False,True,False,
+17-50480,False,False,True,False,False,False,
+17-66784,False,False,True,False,False,False,
+16-116565,False,False,False,False,True,False,
+17-50484,False,False,False,False,True,False,
+17-33117,False,False,True,False,False,False,
+17-50491,False,False,False,False,False,False,Organisme de sécurité sociale
+17-50493,False,False,False,False,True,False,
+17-50495,True,False,False,False,False,False,
+17-50514,False,False,False,False,True,False,
+17-50516,False,False,False,False,True,False,
+17-50521,False,False,False,False,False,False,SAEML
+17-50523,False,False,True,False,False,False,
+17-50526,False,False,True,False,False,False,
+17-50531,False,False,True,False,False,False,
+17-50533,False,False,False,False,False,False,Université
+17-50534,False,False,True,False,False,False,
+17-50536,False,False,False,False,True,False,
+17-50537,False,False,True,False,False,False,
+17-50540,False,False,True,False,False,False,
+17-50545,False,False,False,False,True,False,
+17-50547,False,False,True,False,False,False,
+17-50549,False,False,False,False,False,False,commune
+17-50550,False,False,False,False,True,False,
+17-66216,False,False,False,False,True,False,
+17-50556,False,False,False,False,False,False,SA SPLA Aménagement
+17-65999,False,False,True,False,False,False,
+17-50558,False,False,True,False,False,False,
+17-50563,False,False,False,False,True,False,
+17-50566,True,False,False,False,False,False,
+17-50567,False,False,False,False,True,False,
+17-50568,False,False,True,False,False,False,
+17-50570,False,False,False,True,False,False,
+17-50575,False,False,False,True,False,False,
+17-33987,False,False,True,False,False,False,
+17-50579,False,False,False,False,False,False,collectivité territoriale
+17-50584,False,False,True,False,False,False,
+17-50586,False,False,False,False,True,False,
+17-50587,False,False,True,False,False,False,
+17-50588,True,False,False,False,False,False,
+17-50590,True,False,False,False,False,False,
+17-50594,False,False,False,False,False,False,Collectivité Territoriale
+17-50596,False,False,True,False,False,False,
+17-33091,False,False,False,False,True,False,
+17-50604,True,False,False,False,False,False,
+17-50605,False,False,False,False,True,False,
+17-50607,False,False,False,False,False,False,Etablissement Public de Santé
+17-50609,False,False,True,False,False,False,
+17-50611,False,False,False,False,True,False,
+17-50612,False,False,True,False,False,False,
+17-50616,False,False,False,False,False,False,Organisme de santé
+17-50617,False,False,False,False,False,False,CCAS
+17-50621,False,False,True,False,False,False,
+17-33089,False,False,True,False,False,False,
+17-50634,False,False,False,False,False,False,Etablissement public de sant
+17-50635,False,False,True,False,False,False,
+17-50638,False,False,True,False,False,False,
+17-66720,False,False,True,False,False,False,
+17-50640,False,False,False,False,False,False,Établissement public territorial
+17-50645,False,False,False,False,False,False,Etalissement public
+17-50646,False,False,True,False,False,False,
+17-50651,False,False,False,False,False,False,SA D'HLM
+17-50653,False,False,True,False,False,False,
+17-50659,False,False,True,False,False,False,
+17-50661,False,False,False,False,False,False,Santé
+17-50663,False,False,False,False,True,False,
+17-50665,False,False,False,False,False,False,Enseignement supérieur
+17-50666,False,False,False,False,False,False,Collectivité Territoriale
+17-50667,False,False,False,False,False,False,établissement public autonome
+17-50671,False,False,True,False,False,False,
+17-50673,False,False,False,False,True,False,
+17-50679,False,False,False,False,True,False,
+17-50680,False,False,True,False,False,False,
+17-50681,False,False,True,False,False,False,
+17-33044,False,False,False,False,False,False,hopital
+17-50684,False,False,True,False,False,False,
+17-50687,False,False,True,False,False,False,
+17-33093,True,False,False,False,False,False,
+17-50691,False,False,False,False,False,False,Etablissement d'Enseignement Supérieur consulaire
+17-50692,False,False,False,False,False,False,ESH
+17-66388,False,False,False,False,True,False,
+17-50698,False,False,False,False,True,False,
+17-50704,False,False,False,False,False,False,SEM
+17-50705,False,False,False,False,False,False,SEMSAMAR
+17-50720,False,False,True,False,False,False,
+17-50721,False,False,False,False,False,False,santé
+17-50722,False,False,True,False,False,False,
+17-50724,True,False,False,False,False,False,
+17-50727,False,False,False,False,False,False,Coopérative HLM
+17-50728,False,False,True,False,False,False,
+17-50734,False,False,True,False,False,False,
+17-50739,False,False,False,False,True,False,
+17-50741,False,False,False,False,True,False,
+17-50743,False,False,True,False,False,False,
+17-50747,False,False,False,False,False,False,groupement de commandes
+17-50749,True,False,False,False,False,False,
+17-50754,False,False,True,False,False,False,
+17-50760,False,False,True,False,False,False,
+17-50763,False,False,True,False,False,False,
+17-50768,False,False,False,False,True,False,
+17-50773,False,False,True,False,False,False,
+17-50777,False,False,True,False,False,False,
+17-50781,False,False,True,False,False,False,
+17-50782,False,False,False,False,True,False,
+17-50784,False,False,False,False,False,False,Etablissement public de santé
+17-50785,True,False,False,False,False,False,
+17-50786,False,False,False,False,False,False,EPS
+17-50787,False,False,False,False,True,False,
+17-50788,True,False,False,False,False,False,
+17-50789,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-50791,False,False,False,False,False,False,Groupement de collectivités
+17-50797,False,False,False,False,False,False,Santé
+17-67257,False,False,True,False,False,False,
+17-50801,False,False,True,False,False,False,
+17-50803,False,False,True,False,False,False,
+17-50804,False,False,True,False,False,False,
+17-50806,False,False,True,False,False,False,
+17-50808,False,False,False,False,False,False,Groupement d'intérêt économique
+17-50809,False,False,False,False,True,False,
+17-50818,False,False,False,False,False,False,établissement public de santé
+17-50824,False,False,False,False,False,False,Organisme de sécurité sociale
+17-50828,False,False,False,False,False,False,Central d'achats
+17-50836,False,False,False,False,False,False,autre
+17-50837,False,False,True,False,False,False,
+17-50844,False,False,True,False,False,False,
+17-50847,False,False,True,False,False,False,
+17-50849,True,False,False,False,False,False,
+17-50851,False,False,False,False,False,False,SEM d'Aménagement
+17-50852,True,False,False,False,False,False,
+17-50854,True,False,False,False,False,False,
+17-50860,False,False,True,False,False,False,
+17-50861,False,False,True,False,False,False,
+17-50869,False,False,True,False,False,False,
+17-50870,False,False,False,False,False,False,établissement de santé
+17-50877,True,False,False,False,False,False,
+17-50883,False,False,True,False,False,False,
+17-88508,False,False,False,False,False,False,entreprise publique locale (SEM)
+17-50885,False,False,False,False,False,False,organisme de droit public
+17-50886,False,False,False,False,True,False,
+17-50887,False,False,False,False,True,False,
+17-50892,False,False,False,False,True,False,
+17-50893,True,False,False,False,False,False,
+17-67537,False,False,True,False,False,False,
+17-50897,False,False,False,False,False,False,Etablissement Public de Santé
+17-50898,False,False,False,True,False,False,
+17-50900,False,False,True,False,False,False,
+17-50908,False,False,False,False,False,False,"Organisme privé en charge dune mission de service public, organisme de Sécurité Sociale"
+17-50911,False,False,False,False,True,False,
+17-50912,False,False,True,False,False,False,
+17-50915,True,False,False,False,False,False,
+17-50921,False,False,False,False,False,False,EPS
+17-89446,False,False,False,False,True,False,
+17-50931,False,False,True,False,False,False,
+17-50935,False,False,False,False,True,False,
+17-50937,True,False,False,False,False,False,
+17-50940,True,False,False,False,False,False,
+17-50945,False,False,False,False,False,False,ANCV
+17-64559,False,False,True,False,False,False,
+17-50949,False,False,False,False,False,False,MOSELIS
+17-50950,False,False,False,False,False,False,office public de l'habitat
+17-50955,False,True,False,False,False,False,
+17-50957,False,False,True,False,False,False,
+17-50960,False,False,False,False,False,False,EPCI
+17-50961,False,False,False,False,True,False,
+17-50963,False,False,False,False,True,False,
+17-50964,False,False,True,False,False,False,
+17-67186,False,False,False,False,False,False,Etablissement Public à caractère Industriel et Commercial agissant pour son compte
+17-50971,False,False,False,False,False,False,Fondation de coopération scientifique
+17-50972,False,False,False,False,False,False,Etablissement public administatif
+17-50973,False,False,True,False,False,False,
+17-50975,False,False,True,False,False,False,
+17-50977,False,False,True,False,False,False,
+17-50980,False,False,True,False,False,False,
+17-50982,False,False,False,False,False,False,EPCI
+17-50992,False,False,False,False,False,False,syndicat mixte
+17-50994,False,False,True,False,False,False,
+17-50996,False,False,False,False,False,False,organisme de sécurité sociale
+17-50998,False,False,True,False,False,False,
+17-51001,False,False,True,False,False,False,
+17-51003,False,False,True,False,False,False,
+17-51009,False,False,True,False,False,False,
+17-51010,False,False,True,False,False,False,
+17-51013,False,False,False,False,False,False,communauté de communes
+17-51020,False,False,True,False,False,False,
+17-51021,False,False,False,False,True,False,
+17-51022,False,False,True,False,False,False,
+17-51024,False,False,True,False,False,False,
+17-51028,True,False,False,False,False,False,
+17-51032,False,False,False,False,True,False,
+17-51041,False,False,False,False,False,False,établissement public de santé
+17-51046,True,False,False,False,False,False,
+17-51047,False,False,False,False,False,False,EPST
+17-51049,False,False,True,False,False,False,
+17-51053,True,False,False,False,False,False,
+17-51063,False,False,True,False,False,False,
+17-51069,False,False,True,False,False,False,
+17-51073,True,False,False,False,False,False,
+17-51077,False,False,True,False,False,False,
+17-51079,False,False,False,False,True,False,
+17-51080,False,False,False,False,True,False,
+17-51082,False,False,True,False,False,False,
+17-51084,False,False,False,False,True,False,
+17-51088,False,False,True,False,False,False,
+17-51090,True,False,False,False,False,False,
+17-51091,False,False,True,False,False,False,
+17-51093,False,False,True,False,False,False,
+17-51094,False,False,False,True,False,False,
+17-51102,False,False,False,False,True,False,
+17-51103,True,False,False,False,False,False,
+17-90041,False,False,True,False,False,False,
+17-51110,False,False,False,False,False,False,EPIC
+17-51116,False,False,False,False,True,False,
+17-51118,False,False,False,False,True,False,
+17-51119,False,False,True,False,False,False,
+17-51120,False,False,False,False,False,False,Etablissement de santé
+17-51126,True,False,False,False,False,False,
+17-51129,True,False,False,False,False,False,
+17-34290,False,False,True,False,False,False,
+17-67608,False,False,True,False,False,False,
+17-51139,False,False,False,False,False,False,EPS
+17-51140,False,False,False,False,True,False,
+17-51144,False,False,False,False,True,False,
+17-51148,False,False,True,False,False,False,
+17-51150,False,False,True,False,False,False,
+17-51152,False,False,False,False,False,False,commune
+17-66995,True,False,False,False,False,False,
+17-51156,False,False,False,False,True,False,
+17-51157,False,False,False,False,True,False,
+17-51163,False,False,False,False,True,False,
+17-51165,True,False,False,False,False,False,
+17-51166,False,False,False,False,True,False,
+17-51170,False,False,True,False,False,False,
+17-51181,False,False,False,False,True,False,
+17-51185,False,False,True,False,False,False,
+17-51188,False,False,True,False,False,False,
+17-51189,False,False,False,False,False,False,autre
+17-51192,False,False,True,False,False,False,
+17-51193,False,False,True,False,False,False,
+17-51194,False,False,True,False,False,False,
+17-51195,False,False,True,False,False,False,
+17-51196,False,False,False,False,True,False,
+17-51197,False,False,True,False,False,False,
+17-51198,False,False,False,False,False,False,CHU
+17-51200,False,False,False,False,True,False,
+17-51202,True,False,False,False,False,False,
+17-65536,True,False,False,False,False,False,
+17-90528,False,False,False,False,False,False,Immobilier et Aménagement
+17-51211,False,False,False,False,False,False,Enseignement supérieur et recherche
+17-51214,False,False,True,False,False,False,
+17-51216,False,False,True,False,False,False,
+17-51231,False,False,False,False,False,False,collectivité territoriale
+17-88475,False,True,False,False,False,False,
+17-51238,True,False,False,False,False,False,
+17-51243,False,False,True,False,False,False,
+17-51248,False,False,True,False,False,False,
+17-51251,False,False,True,False,False,False,
+17-51255,False,False,False,False,False,False,Logements et équipements collectifs
+17-51256,False,False,False,False,True,False,
+17-51260,False,False,False,False,True,False,
+17-51261,False,False,False,False,False,False,Etablissement Public de santé
+17-51262,False,False,False,False,False,False,SEM
+17-51263,False,False,True,False,False,False,
+17-74230,False,False,True,False,False,False,
+17-51265,False,False,True,False,False,False,
+17-89605,False,False,True,False,False,False,
+17-51271,False,False,False,False,False,False,etablissement public
+17-51272,False,False,True,False,False,False,
+17-51273,False,False,True,False,False,False,
+17-51274,False,False,True,False,False,False,
+17-51278,False,True,False,False,False,False,
+17-51280,False,False,True,False,False,False,
+17-90467,False,False,True,False,False,False,
+17-51288,False,False,True,False,False,False,
+17-51290,False,False,False,False,True,False,
+17-51292,False,False,False,False,True,False,
+17-51294,False,False,True,False,False,False,
+17-51296,False,False,False,False,True,False,
+17-51298,False,False,True,False,False,False,
+17-51299,False,False,True,False,False,False,
+17-51303,False,False,True,False,False,False,
+17-51305,False,False,True,False,False,False,
+17-51306,False,True,False,False,False,False,
+17-51308,False,False,True,False,False,False,
+17-51309,False,False,False,False,True,False,
+17-51310,False,False,False,False,False,False,organisme de sécurité sociale
+17-51313,False,False,True,False,False,False,
+17-51315,False,False,False,False,False,False,"Acquisition, Aménagement, Construction, Gestion, Location, Ventes d'immeubles collectifs et individuels à usage principal d'habitation et notamment bénéficiant du financement de l'Etat"
+17-51316,False,False,True,False,False,False,
+17-51320,False,False,False,False,True,False,
+17-89006,False,False,False,False,True,False,
+17-51327,False,False,False,False,True,False,
+17-51328,False,False,True,False,False,False,
+17-51331,False,False,True,False,False,False,
+17-90188,False,False,False,False,False,False,Organisme consulaire
+17-89244,True,False,False,False,False,False,
+17-51340,True,False,False,False,False,False,
+17-51341,False,False,True,False,False,False,
+17-51350,False,False,True,False,False,False,
+17-51355,False,False,False,False,False,False,COMMUNAUTE DE COMMUNES
+17-51358,False,False,False,False,False,False,collectivité territoriale
+17-51359,False,False,True,False,False,False,
+17-89534,False,False,False,False,False,False,Ets Public de Santé
+17-67667,False,False,True,False,False,False,
+17-51367,False,False,True,False,False,False,
+17-51368,False,False,False,False,False,False,Palais consulaire
+17-51370,True,False,False,False,False,False,
+17-51372,False,False,False,False,True,False,
+17-51373,False,False,False,False,False,False,Etablissement public de santé
+17-51377,False,False,True,False,False,False,
+17-51382,False,False,False,False,True,False,
+17-51384,False,False,True,False,False,False,
+17-51387,True,False,False,False,False,False,
+17-51389,False,False,True,False,False,False,
+17-51395,False,False,False,False,False,False,SEM
+17-90092,False,False,True,False,False,False,
+17-51409,False,False,False,False,True,False,
+17-67506,False,False,False,False,True,False,
+17-51415,False,False,False,False,True,False,
+17-51425,False,False,False,False,True,False,
+17-51428,False,False,True,False,False,False,
+17-51432,False,False,False,False,True,False,
+17-51433,False,False,False,False,True,False,
+17-51434,False,False,True,False,False,False,
+17-51443,False,False,False,False,False,False,Etablissement d'Enseignement Supérieur Consulaire
+17-51445,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+17-51449,False,False,False,False,False,False,secteur social et médico-social
+17-51450,False,False,False,False,True,False,
+17-51451,False,False,True,False,False,False,
+17-51456,False,False,False,False,True,False,
+17-51457,True,False,False,False,False,False,
+17-51460,False,False,False,False,False,False,Etablissement Public de coopération intercommunale
+17-51463,False,False,True,False,False,False,
+17-51464,False,False,False,False,False,False,Sénat - Parlement
+17-51468,False,False,False,False,True,False,
+17-51475,False,False,True,False,False,False,
